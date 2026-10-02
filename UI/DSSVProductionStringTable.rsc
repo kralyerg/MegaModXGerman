@@ -365,6 +365,24 @@ StringTable graphTypes
 		{ String _name = "Type20";			String _text = "Sonstiges"; }
 		{ String _name = "Type21";			String _text = "Reserviert"; }
 		{ String _name = "Type22";			String _text = "Reserviert"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "CandlesBeeswaxRequire";				String _text = "4-5 Kerzen (3 Bienenwachs + 1 Brennholz)"; }
+		{ String _name = "CandlesTallowRequire";				String _text = "4-5 Kerzen (3 Talg + 1 Brennholz)"; }
+		{ String _name = "CopperToolRequire";				String _text = "1-2 Kupferwerkzeuge (1 Kupfer + 1 Stamm)"; }
+		{ String _name = "DSSVBannock1Require";				String _text = "18-20 Fladenbrote (17 Weizen + 1 Wasser)"; }
+		{ String _name = "DSSVBannock2Require";				String _text = "18-20 Fladenbrote (17 Mais + 1 Wasser)"; }
+		{ String _name = "DSSVPasture1";				String _text = "Dorfweide, Holzzaun"; }
+		{ String _name = "DSSVPasture1Lwr";				String _text = "dorfweide holzzaun"; }
+		{ String _name = "DSSVPasture1Tip";				String _text = "Eine mit Holzzaun umgebene Weide für Vieh. Eine halbtransparente Bodentextur. Feldgröße = 7x7 min - 34x34 max. 1 Stamm + 1 Arbeit pro Feld zum Bau."; }
+		{ String _name = "DSSVProdRemoveButton";				String _text = "Entfernen"; }
+		{ String _name = "DSSVProdRemoveButtonLwr";				String _text = "entfernen"; }
+		{ String _name = "DSSVProdRemoveButtonTip";				String _text = "Entfernen"; }
+		{ String _name = "FishingGearRequireCopper";				String _text = "7-8 Werkzeuge:Fischer (1 Kupfer + 3 Stämme)"; }
+		{ String _name = "HuntingGearRequireCopper";				String _text = "7-8 Werkzeuge:Jäger (1 Kupfer + 3 Stämme)"; }
+		{ String _name = "ToolStonecutterRequire";				String _text = "5-8 Werkzeuge:Steinmetz (1 Eisen + 1 Holzkohle + 1 Stamm)"; }
+		{ String _name = "WagonPartsRequire";				String _text = "1-2 Wagenteile (5 Stämme + 2 Eisen)"; }
+
 	]
 }
 

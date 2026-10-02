@@ -162,5 +162,9 @@ StringTable resource
 		{ String _name = "SmallFenceDiagonalTip";			String _text = "Platziert ein diagonales Zaunstuck."; }
 		
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "EdgeFenceMenu";				String _text = "Dekorative Zäune (Platzierung am Kachelrand)"; }
+
 	]
 }

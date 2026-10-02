@@ -103,5 +103,11 @@ StringTable resource
 		
 		{ String _name = "ClearEBRoadCancel";						String _text = "Entfernen abbrechen"; }
 		{ String _name = "ClearEBRoadCancelTip";					String _text = "Bricht Entfernungsaufgaben im ausgewählten Bereich ab."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "EBStoneRoad15";				String _text = "Steinstraße 15"; }
+		{ String _name = "EBStoneRoad15Lwr";				String _text = "steinstraße 15"; }
+		{ String _name = "EBStoneRoad15Tip";				String _text = "Steinstraße 15"; }
+
 	]
 }

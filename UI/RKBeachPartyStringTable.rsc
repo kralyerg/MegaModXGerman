@@ -20,5 +20,9 @@ StringTable resource
 		//{ String _name = "RKBeachHouse3Lwr";				String _text = "strandhaus"; }
 		//{ String _name = "RKBeachHouse3Tip";				String _text = "Strandhäuser können kleinen Familien am Strand Unterschlupf bieten."; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "RKBeachPartybarTip";				String _text = "Öffnet die Werkzeugleiste des 'Beach Party'-Mods."; }
+
 	]
 }

@@ -23,5 +23,9 @@ StringTable resource
 		{ String _name = "MaritimesToolShedLwr";				String _text = "Werkzeugschuppen"; }
 		{ String _name = "MaritimesToolShedTip";				String _text = "Ein Werkzeugschuppen, 5 F-Varianten, 200 Einheiten Kapazität. Lagert Werkzeuge."; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Lumber";				String _text = "Schnittholz"; }
+
 	]	
 }

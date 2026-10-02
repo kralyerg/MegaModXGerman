@@ -88,5 +88,19 @@ StringTable resource
 		{ String _name = "Custom0Limit";							String _text = "Handwerkslimit"; }
 		{ String _name = "Custom0LimitShort";						String _text = "Handwerksgüter"; }
 		{ String _name = "Custom0LimitTip";							String _text = "Steuert die Menge an gelagerten Handwerksgütern. Sobald dieses Limit erreicht ist, wird die Produktion eingestellt."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Barley";				String _text = "Gerste"; }
+		{ String _name = "Bread";				String _text = "Brot"; }
+		{ String _name = "Cake";				String _text = "Kuchen"; }
+		{ String _name = "Flour";				String _text = "Mehl"; }
+		{ String _name = "LeatherCured";				String _text = "Gegerbtes Leder"; }
+		{ String _name = "NMWater";				String _text = "Wasser"; }
+		{ String _name = "Pie";				String _text = "Torte"; }
+		{ String _name = "Pouch";				String _text = "Beutel"; }
+		{ String _name = "Saddle";				String _text = "Sattel"; }
+		{ String _name = "Salt";				String _text = "Salz"; }
+		{ String _name = "Sorghum";				String _text = "Sorghum"; }
+
 	]
 }

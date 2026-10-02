@@ -28,6 +28,13 @@ StringTable resource
 		{ String _name = "ProfessionDairymanTip";		String _text = "Ein Molkereiarbeiter bringt Milch zu einer Molkerei und stellt Joghurt, Sahne und Käse her."; }
 		{ String _name = "ProfessionDairymanDeath";		String _text = "trank schlechte Milch und starb."; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "MilkyCows";				String _text = "Milchkühe"; }
+		{ String _name = "RedCreamery";				String _text = "[RC] Reds Molkerei"; }
+		{ String _name = "RedCreameryLwr";				String _text = "[RC] Reds Molkerei"; }
+		{ String _name = "RedCreameryTip";				String _text = "Reds Molkerei kann Käse, Sahne, Butter und Joghurt herstellen. Verbraucht 48 Holz und 12 Stein."; }
+
 	]
 }
 

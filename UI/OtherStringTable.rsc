@@ -91,6 +91,76 @@ StringTable resource
 
 
 																
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "BronzeToolRequire";				String _text = "[O] Bronzewerkzeug [1 Bronze + 1 Stamm]"; }
+		{ String _name = "ButtonMegaMod";				String _text = "[O] MegaMod-Details"; }
+		{ String _name = "CCStatue1";				String _text = "[O] Steinstatue"; }
+		{ String _name = "CCStatue1Lwr";				String _text = "[o] steinstatue"; }
+		{ String _name = "CCStatue1Tip";				String _text = "[O] Einige Steinstatuen."; }
+		{ String _name = "CCStatue2";				String _text = "[O] Steinstatue der Charta"; }
+		{ String _name = "CCStatue2Lwr";				String _text = "[o] steinstatue der charta"; }
+		{ String _name = "CCStatue2Tip";				String _text = "[O] Bürgermeister reitet auf einem Kamel"; }
+		{ String _name = "CCStatue3";				String _text = "[O] Holzstatue"; }
+		{ String _name = "CCStatue3Lwr";				String _text = "[o] holzstatue"; }
+		{ String _name = "CCStatue3Tip";				String _text = "[O] Eine Reihe von Holzstatuen"; }
+		{ String _name = "CCStatueIron1";				String _text = "[O] Eisenstatue"; }
+		{ String _name = "CCStatueIron1Lwr";				String _text = "[o] eisenstatue"; }
+		{ String _name = "CCStatueIron1Tip";				String _text = "[O] Eine Statue der Gerichtsglocke, die für die faire Behandlung aller Kolonisten steht."; }
+		{ String _name = "CCStatueJade1";				String _text = "[O] Weißjade-Statue"; }
+		{ String _name = "CCStatueJade1Lwr";				String _text = "[o] weißjade-statue"; }
+		{ String _name = "CCStatueJade1Tip";				String _text = "[O] Einflüsse aus der Ferne haben diese Statue geschaffen"; }
+		{ String _name = "CCStatueMarble1";				String _text = "[O] Marmorstatue"; }
+		{ String _name = "CCStatueMarble1Lwr";				String _text = "[o] marmorstatue"; }
+		{ String _name = "CCStatueMarble1Tip";				String _text = "[O] Einflüsse aus der Ferne haben diese Statue geschaffen"; }
+		{ String _name = "CarbonSteelToolRequire";				String _text = "[O] Kohlenstoffstahl-Werkzeug [1 Stamm + 2 Eisen + 2 Kohle]"; }
+		{ String _name = "ChooChoo";				String _text = "[O] Geister-Spielzeugzug"; }
+		{ String _name = "ChooChooLwr";				String _text = "[o] spielzeugzug"; }
+		{ String _name = "ChooChooTip";				String _text = "[O] Geister-Spielzeugzug-Gegenstand."; }
+		{ String _name = "ChooTrain1";				String _text = "[O] Geister-Spielzeugzug: Zuglokomotive"; }
+		{ String _name = "ChooTrain1Lwr";				String _text = "[o] spielzeugzug: zuglokomotive"; }
+		{ String _name = "ChooTrain1Tip";				String _text = "[O] Geister-Spielzeugzug: Zuglokomotive Modell 1."; }
+		{ String _name = "ChooTrain2";				String _text = "[O] Geister-Spielzeugzug: Zuglokomotive"; }
+		{ String _name = "ChooTrain2Lwr";				String _text = "[o] spielzeugzug: zuglokomotive"; }
+		{ String _name = "ChooTrain2Tip";				String _text = "[O] Geister-Spielzeugzug: Zuglokomotive Modell 2."; }
+		{ String _name = "ChooWagon1";				String _text = "[O] Geister-Spielzeugzug: Nahrungswaggon"; }
+		{ String _name = "ChooWagon1Lwr";				String _text = "[o] spielzeugzug: nahrungswaggon"; }
+		{ String _name = "ChooWagon1Tip";				String _text = "[O] Geister-Spielzeugzug: Nahrungswaggon."; }
+		{ String _name = "ChooWagon2";				String _text = "[O] Geister-Spielzeugzug: Frachtwaggon"; }
+		{ String _name = "ChooWagon2Lwr";				String _text = "[o] spielzeugzug: frachtwaggon"; }
+		{ String _name = "ChooWagon2Tip";				String _text = "[O] Geister-Spielzeugzug: Frachtwaggon."; }
+		{ String _name = "ChooWagon3";				String _text = "[O] Geister-Spielzeugzug: Materialwaggon"; }
+		{ String _name = "ChooWagon3Lwr";				String _text = "[o] spielzeugzug: materialwaggon"; }
+		{ String _name = "ChooWagon3Tip";				String _text = "[O] Geister-Spielzeugzug: Materialwaggon."; }
+		{ String _name = "ChooWagon4";				String _text = "[O] Geister-Spielzeugzug: Personenwaggon"; }
+		{ String _name = "ChooWagon4Lwr";				String _text = "[o] spielzeugzug: personenwaggon"; }
+		{ String _name = "ChooWagon4Tip";				String _text = "[O] Geister-Spielzeugzug: Personenwaggon."; }
+		{ String _name = "ChooWagon5";				String _text = "[O] Geister-Spielzeugzug: Hinterwagen"; }
+		{ String _name = "ChooWagon5Lwr";				String _text = "[O] Spielzeugzug: Hinterwagen"; }
+		{ String _name = "ChooWagon5Tip";				String _text = "[O] Geister-Spielzeugzug: Hinterwagen."; }
+		{ String _name = "ChooWagon6";				String _text = "[O] Geister-Spielzeugzug: Handwagen"; }
+		{ String _name = "ChooWagon6Lwr";				String _text = "[O] Spielzeugzug: Handwagen"; }
+		{ String _name = "ChooWagon6Tip";				String _text = "[O] Geister-Spielzeugzug: Handwagen."; }
+		{ String _name = "CrudeToolRequire";				String _text = "[O] Grobes Werkzeug [1 Baumstamm + 1 Eisenerz]"; }
+		{ String _name = "GemToolRequire";				String _text = "[O] Edelsteinwerkzeug [1 Baumstamm + 1 polierter Edelstein]"; }
+		{ String _name = "HardenedToolRequire";				String _text = "[O] Gehärtetes Werkzeug [1 Baumstamm + 2 Eisen + 1 Kohle]"; }
+		{ String _name = "IronToolRequire";				String _text = "[O] Eisenwerkzeug [1 Baumstamm + 1 Eisen]"; }
+		{ String _name = "LionStatue";				String _text = "[O] Bronzestatue"; }
+		{ String _name = "LionStatueLwr";				String _text = "[O] Bronzestatue"; }
+		{ String _name = "LionStatueTip";				String _text = "[O] Eine Reihe eleganter und kraftvoller Bronzestatuen. Benötigt Steinskulptur und Bronzestatue zum Bau. Drücke F, um den Stil zu wechseln."; }
+		{ String _name = "MusketRequire";				String _text = "[O] Muskete [Eisen + Baumstamm + Ofenbrennstoff]"; }
+		{ String _name = "Quote1";				String _text = "[O] Der einzige Sinn deines Lebens besteht nun darin, andere davor zu warnen, nicht so zu werden wie du."; }
+		{ String _name = "Quote2";				String _text = "[O] Das dunkelste Geheimnis der Kolonie ist, dass immer noch nicht wenige Menschen glauben, sie würden von einer höheren Zivilisation beherrscht."; }
+		{ String _name = "Quote3";				String _text = "[O] Das ist verdammt noch mal natürlich ein Pferd!"; }
+		{ String _name = "QuoteIron1";				String _text = "[O] Wir müssen erkennen, dass wir eine Stadt auf einem Berge sein werden. Die Augen aller Menschen sind auf uns gerichtet. - John Winthrop."; }
+		{ String _name = "QuoteJade1";				String _text = "[O] Alle Buddhas, die Ehrwürdigen der Welt, entstehen aus der Welt der Menschen, nicht vom Himmel erlangt. - Shakyamuni"; }
+		{ String _name = "QuoteMarble1";				String _text = "[O] Der Engel war schon immer im Marmor, ich habe ihn nur aus seinem marmornen Gefängnis befreit. - Michelangelo."; }
+		{ String _name = "RoughToolRequire";				String _text = "[O] Grobes Werkzeug [1 Baumstamm + 1 Eisenerz]"; }
+		{ String _name = "SteelToolRequire";				String _text = "[O] Stahlwerkzeug [1 Baumstamm + 1 Eisen + 1 Kohle]"; }
+		{ String _name = "StoneToolRequire";				String _text = "[O] Steinwerkzeug [1 Baumstamm + 1 Stein]"; }
+		{ String _name = "ToolRequire";				String _text = "[O] Eisenwerkzeug [1 Baumstamm + 1 Eisen]"; }
+		{ String _name = "WoodToolRequire";				String _text = "[O] Holzwerkzeug [2 Baumstämme]"; }
+
 	]
 }
 

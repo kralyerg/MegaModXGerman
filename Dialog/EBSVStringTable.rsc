@@ -225,5 +225,47 @@ StringTable resource
 		{ String _name = "MerchantSVIndustry";			String _text = "Industriehändler"; }		//All construction and materials.
 		
 		
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ClearCopper";				String _text = "Kupfererz sammeln"; }
+		{ String _name = "ClearCopperLwr";				String _text = "kupfererz sammeln"; }
+		{ String _name = "ClearCopperTip";				String _text = "Sammelt alles Kupfererz im ausgewählten Bereich."; }
+		{ String _name = "Copper";				String _text = "Kupfer"; }
+		{ String _name = "CopperOre";				String _text = "Kupfererz"; }
+		{ String _name = "CopperOreRequire";				String _text = "Kupfererz"; }
+		{ String _name = "Custom5Limit";				String _text = "Baumaterial-Grenzwert"; }
+		{ String _name = "Custom5LimitShort";				String _text = "Bau"; }
+		{ String _name = "Custom5LimitTip";				String _text = "Steuert die Menge der gelagerten Baumaterialien. Sobald dieser Grenzwert erreicht ist, stoppt die Produktion."; }
+		{ String _name = "EBSVHousing4x4Dark";				String _text = "4x4 Dunkle Holzhäuser-Werkzeugleiste"; }
+		{ String _name = "EBSVHousing4x4DarkLwr";				String _text = "4x4 dunkle holzhäuser-werkzeugleiste"; }
+		{ String _name = "EBSVHousing4x4DarkTip";				String _text = "Werkzeugleiste für dunkelfarbene 4x4 Dorf-Holzhäuser."; }
+		{ String _name = "EBSVHousing4x4Light";				String _text = "4x4 Helle Holzhäuser-Werkzeugleiste"; }
+		{ String _name = "EBSVHousing4x4LightLwr";				String _text = "4x4 helle holzhäuser-werkzeugleiste"; }
+		{ String _name = "EBSVHousing4x4LightTip";				String _text = "Werkzeugleiste für hellfarbene 4x4 Dorf-Holzhäuser."; }
+		{ String _name = "EBSVHousing4x4Warm";				String _text = "4x4 Mittlere Holzhäuser-Werkzeugleiste"; }
+		{ String _name = "EBSVHousing4x4WarmLwr";				String _text = "4x4 mittlere holzhäuser-werkzeugleiste"; }
+		{ String _name = "EBSVHousing4x4WarmTip";				String _text = "Werkzeugleiste für mittelfarbene 4x4 Dorf-Holzhäuser."; }
+		{ String _name = "EBSVHousingDark3x4A";				String _text = "3x4 Holzhaus Dunkel"; }
+		{ String _name = "EBSVHousingDark3x4ALwr";				String _text = "3x4 holzhaus dunkel"; }
+		{ String _name = "EBSVHousingDark3x4ATip";				String _text = "Das dunkelfarbene 3x4 Dorf-Holzhaus bietet Bürgern einen Platz zum Wohnen, Essen, Lagern von Nahrung und Aufwärmen. Bis zu 4 Personen können im Holzhaus wohnen. Lagerung: 900. Bauzyklen: 24. 5 F-Tasten-Variationen mit Strohdach."; }
+		{ String _name = "EBSVHousingLight3x4A";				String _text = "3x4 Holzhaus Hell"; }
+		{ String _name = "EBSVHousingLight3x4ALwr";				String _text = "3x4 holzhaus hell"; }
+		{ String _name = "EBSVHousingLight3x4ATip";				String _text = "Das hellfarbene 3x4 Dorf-Holzhaus bietet Bürgern einen Platz zum Wohnen, Essen, Lagern von Nahrung und Aufwärmen. Bis zu 4 Personen können im Holzhaus wohnen. Lagerung: 900. Bauzyklen: 24. 5 F-Tasten-Variationen mit Strohdach."; }
+		{ String _name = "EBSVHousingWarm3x4A";				String _text = "3x4 Holzhaus Mittel"; }
+		{ String _name = "EBSVHousingWarm3x4ALwr";				String _text = "3x4 holzhaus mittel"; }
+		{ String _name = "EBSVHousingWarm3x4ATip";				String _text = "Das mittelfarbene 3x4 Dorf-Holzhaus bietet Bürgern einen Platz zum Wohnen, Essen, Lagern von Nahrung und Aufwärmen. Bis zu 4 Personen können im Holzhaus wohnen. Lagerung: 900. Bauzyklen: 24. 5 F-Tasten-Variationen mit Strohdach."; }
+		{ String _name = "SVOreToCopperCharcoalRequire";				String _text = "Kupfer [2 Kupfererz + 1 Holzkohle]"; }
+		{ String _name = "SVOreToCopperCoalRequire";				String _text = "Kupfer [2 Kupfererz + 1 Kohle]"; }
+		{ String _name = "SVOreToCopperFirewoodRequire";				String _text = "Kupfer [2 Kupfererz + 2 Brennholz]"; }
+		{ String _name = "ToolbarEBSVHousing3x4Dark";				String _text = "3x4 Dunkle Holzhäuser-Werkzeugleiste"; }
+		{ String _name = "ToolbarEBSVHousing3x4DarkLwr";				String _text = "3x4 dunkle holzhäuser-werkzeugleiste"; }
+		{ String _name = "ToolbarEBSVHousing3x4DarkTip";				String _text = "Werkzeugleiste für dunkelfarbene 3x4 Dorf-Holzhäuser."; }
+		{ String _name = "ToolbarEBSVHousing3x4Light";				String _text = "3x4 Helle Holzhäuser-Werkzeugleiste"; }
+		{ String _name = "ToolbarEBSVHousing3x4LightLwr";				String _text = "3x4 helle holzhäuser-werkzeugleiste"; }
+		{ String _name = "ToolbarEBSVHousing3x4LightTip";				String _text = "Werkzeugleiste für hellfarbene 3x4 Dorf-Holzhäuser."; }
+		{ String _name = "ToolbarEBSVHousing3x4Warm";				String _text = "3x4 Mittlere Holzhäuser-Werkzeugleiste"; }
+		{ String _name = "ToolbarEBSVHousing3x4WarmLwr";				String _text = "3x4 mittlere holzhäuser-werkzeugleiste"; }
+		{ String _name = "ToolbarEBSVHousing3x4WarmTip";				String _text = "Werkzeugleiste für mittelfarbene 3x4 Dorf-Holzhäuser."; }
+
 	]
 }

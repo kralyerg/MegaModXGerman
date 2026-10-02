@@ -205,5 +205,38 @@ StringTable resource
 		{ String _name = "RKTrainingCampTrashLwr";			String _text = "entsorgen"; }
 		{ String _name = "RKTrainingCampTrashTip";			String _text = "Dieses Trainingslager-Objekt entsorgen und entfernen."; }
 		{ String _name = "RKTrainingCampTrashUpgradeTip";		String _text = "Dieses Trainingslager-Objekt entsorgen und entfernen."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "RKMCHorse1b";				String _text = "Pferd"; }
+		{ String _name = "RKMCHorse1bLwr";				String _text = "pferd"; }
+		{ String _name = "RKMCHorse1bTip";				String _text = "Dekoratives Pferd im 45-Grad-Winkel. (durchscheinend)"; }
+		{ String _name = "RKMCHorse2b";				String _text = "Pferd"; }
+		{ String _name = "RKMCHorse2bLwr";				String _text = "pferd"; }
+		{ String _name = "RKMCHorse2bTip";				String _text = "Dekoratives Pferd im 45-Grad-Winkel. (durchscheinend)"; }
+		{ String _name = "RKMCHorse3b";				String _text = "Pferd"; }
+		{ String _name = "RKMCHorse3bLwr";				String _text = "pferd"; }
+		{ String _name = "RKMCHorse3bTip";				String _text = "Dekoratives Pferd im 45-Grad-Winkel. (durchscheinend)"; }
+		{ String _name = "RKMCHorse4b";				String _text = "Pferd"; }
+		{ String _name = "RKMCHorse4bLwr";				String _text = "pferd"; }
+		{ String _name = "RKMCHorse4bTip";				String _text = "Dekoratives Pferd im 45-Grad-Winkel. (durchscheinend)"; }
+		{ String _name = "RKMCHorse5";				String _text = "Pferd"; }
+		{ String _name = "RKMCHorse5Lwr";				String _text = "pferd"; }
+		{ String _name = "RKMCHorse5Tip";				String _text = "Dekoratives Pferd. (durchscheinend)"; }
+		{ String _name = "RKMCHorse5b";				String _text = "Pferd"; }
+		{ String _name = "RKMCHorse5bLwr";				String _text = "pferd"; }
+		{ String _name = "RKMCHorse5bTip";				String _text = "Dekoratives Pferd im 45-Grad-Winkel. (durchscheinend)"; }
+		{ String _name = "RKMCHorse6";				String _text = "Pferd"; }
+		{ String _name = "RKMCHorse6Lwr";				String _text = "pferd"; }
+		{ String _name = "RKMCHorse6Tip";				String _text = "Dekoratives Pferd. (durchscheinend)"; }
+		{ String _name = "RKMCHorse6b";				String _text = "Pferd"; }
+		{ String _name = "RKMCHorse6bLwr";				String _text = "pferd"; }
+		{ String _name = "RKMCHorse6bTip";				String _text = "Dekoratives Pferd im 45-Grad-Winkel. (durchscheinend)"; }
+		{ String _name = "RKMChorses1toolbar";				String _text = "Pferde-1-Werkzeugleiste"; }
+		{ String _name = "RKMChorses1toolbarLwr";				String _text = "pferde-1-werkzeugleiste"; }
+		{ String _name = "RKMChorses1toolbarTip";				String _text = "Öffne die 'Trainingslager-Pferde-1-Werkzeugleiste' für Optionen."; }
+		{ String _name = "RKMChorses2toolbar";				String _text = "Pferde-2-Werkzeugleiste (45 Grad)"; }
+		{ String _name = "RKMChorses2toolbarLwr";				String _text = "pferde-2-werkzeugleiste (45 grad)"; }
+		{ String _name = "RKMChorses2toolbarTip";				String _text = "Öffne die 'Trainingslager-Pferde-2-Werkzeugleiste (45 Grad)' für Optionen."; }
+
 	]
 }

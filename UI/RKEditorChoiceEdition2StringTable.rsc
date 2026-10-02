@@ -3104,83 +3104,83 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x3WayC1";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC1Lwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC1Tip";			String _text = "8x Classic Stone Canal 3-Way (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x3WayC1Tip";			String _text = "8x Klassischer Stein Kanal-Dreiweg (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8x3WayC1R";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC1RLwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC1RTip";			String _text = "8x Classic Stone Canal 3-Way - Reversed (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x3WayC1RTip";			String _text = "8x Klassischer Stein Kanal-Dreiweg - umgekehrt (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8x4WayC1";				String _text = "Kanal: 4-Wege"; }
 		{ String _name = "NMT30Canal8x4WayC1Lwr";			String _text = "Kanal: 4-Wege"; }
-		{ String _name = "NMT30Canal8x4WayC1Tip";			String _text = "8x Classic Stone Canal 4-Way (+ Connector). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x4WayC1Tip";			String _text = "8x Klassischer Stein Kanal-Vierweg (+-Verbindung). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xBridgeC1";			String _text = "Kanal: Brücke"; }
 		{ String _name = "NMT30Canal8xBridgeC1Lwr";			String _text = "Kanal: Brücke"; }
-		{ String _name = "NMT30Canal8xBridgeC1Tip";			String _text = "8x Classic Stone Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Size: 4x8. Cost: 20 Stein."; }
+		{ String _name = "NMT30Canal8xBridgeC1Tip";			String _text = "8x Klassischer Stein Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Größe: 4x8. Kosten: 20 Stein."; }
 
 		{ String _name = "NMT30Canal8xCornerC1";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC1Lwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC1Tip";			String _text = "8x Classic Stone Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xCornerC1Tip";			String _text = "8x Klassischer Stein Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xCornerC1R";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC1RLwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC1RTip";			String _text = "8x Classic Stone Kanal-Ecke - reversed. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xCornerC1RTip";			String _text = "8x Klassischer Stein Kanal-Ecke - umgekehrt. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xDockC1";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC1Lwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC1Tip";			String _text = "8x Classic Stone Canal Dock. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xDockC1Tip";			String _text = "8x Klassischer Stein Kanal-Anlegesteg. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xDockC1R";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC1RLwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC1RTip";			String _text = "8x Classic Stone Canal Dock - reversed. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xDockC1RTip";			String _text = "8x Klassischer Stein Kanal-Anlegesteg - umgekehrt. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xEndC1";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC1Lwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC1Tip";			String _text = "8x Classic Stone Kanal-Ende. Verwenden, um einen Kanal zu beenden. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xEndC1Tip";			String _text = "8x Klassischer Stein Kanal-Ende. Verwenden, um einen Kanal zu beenden. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xEndC1R";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC1RLwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC1RTip";			String _text = "8x Classic Stone Kanal-Ende - Reversed. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xEndC1RTip";			String _text = "8x Klassischer Stein Kanal-Ende - umgekehrt. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFDockC1";				String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC1Lwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC1Tip";			String _text = "8x Classic Stone Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xFDockC1Tip";			String _text = "8x Klassischer Stein Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFDockC1R";			String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC1RLwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC1RTip";			String _text = "8x Classic Stone Kanal-Angelsteg - reversed. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xFDockC1RTip";			String _text = "8x Klassischer Stein Kanal-Angelsteg - umgekehrt. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFillerC1";			String _text = "Kanal: Füllstück"; }
 		{ String _name = "NMT30Canal8xFillerC1Lwr";			String _text = "Kanal: Füllstück"; }
-		{ String _name = "NMT30Canal8xFillerC1Tip";			String _text = "8x Classic Stone Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Size: 1x8. Cost: 5 Stein."; }
+		{ String _name = "NMT30Canal8xFillerC1Tip";			String _text = "8x Klassischer Stein Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Größe: 1x8. Kosten: 5 Stein."; }
 
 		{ String _name = "NMT30Canal8xGateC1";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC1Lwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC1Tip";			String _text = "8x Classic Stone Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xGateC1Tip";			String _text = "8x Klassischer Stein Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xGateC1R";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC1RLwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC1RTip";			String _text = "8x Classic Stone Kanal-Tor - reversed. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xGateC1RTip";			String _text = "8x Klassischer Stein Kanal-Tor - umgekehrt. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xMillC1";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC1Lwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC1Tip";			String _text = "8x Classic Stone Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Size: 10x14. Cost: 30 Stämme, 20 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC1Tip";			String _text = "8x Klassischer Stein Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Größe: 10x14. Kosten: 30 Stämme, 20 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xMillC1R";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC1RLwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC1RTip";			String _text = "8x Classic Stone Kanal-Mühle - reversed. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 10x14. Cost: 30 Stämme, 20 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC1RTip";			String _text = "8x Klassischer Stein Kanal-Mühle - umgekehrt. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 10x14. Kosten: 30 Stämme, 20 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xStraightC1";			String _text = "Kanal: Gerade"; }
 		{ String _name = "NMT30Canal8xStraightC1Lwr";			String _text = "Kanal: Gerade"; }
-		{ String _name = "NMT30Canal8xStraightC1Tip";			String _text = "8x Classic Stone Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xStraightC1Tip";			String _text = "8x Klassischer Stein Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC1";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC1Lwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC1Tip";		String _text = "8x Classic Stone Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Size: 10x15. Cost: 40 Stämme, 30 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC1Tip";		String _text = "8x Klassischer Stein Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Größe: 10x15. Kosten: 40 Stämme, 30 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC1R";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC1RLwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC1RTip";		String _text = "8x Classic Stone Kanal-Handelsposten - reversed. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Water flow is reversed in this version. Size: 10x15. Cost: 40 Stämme, 30 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC1RTip";		String _text = "8x Klassischer Stein Kanal-Handelsposten - umgekehrt. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 10x15. Kosten: 40 Stämme, 30 Stein, 10 Eisen."; }
 
 
 		{ String _name = "NMT30Canal6x4JokerC1";			String _text = "Kanal: 6x4 Joker"; }
@@ -3193,11 +3193,11 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x6JokerC1";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC4Lwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC1Tip";			String _text = "6x-8x Classic Stone Canal Joker. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Size 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x6JokerC1Tip";			String _text = "6x-8x Klassischer Stein Kanal-Joker. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Größe 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8x6JokerC4R";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC1RLwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC1RTip";			String _text = "6x-8x Classic Stone Canal Joker - reversed. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Water flow is reversed in this version. Size 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x6JokerC1RTip";			String _text = "6x-8x Klassischer Stein Kanal-Joker - umgekehrt. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 4x8. Kosten: 10 Stein."; }
 
 
 		// NMT31 Canal Set Toolbars ++++++++++  MC2oldbricks  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -3367,83 +3367,83 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x3WayC2";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC2Lwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC2Tip";			String _text = "8x Old Stone Canal 3-Way (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x3WayC2Tip";			String _text = "8x Alter Stein Kanal-Dreiweg (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8x3WayC2R";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC2RLwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC2RTip";			String _text = "8x Old Stone Canal 3-Way - Reversed (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x3WayC2RTip";			String _text = "8x Alter Stein Kanal-Dreiweg - umgekehrt (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8x4WayC2";				String _text = "Kanal: 4-Wege"; }
 		{ String _name = "NMT30Canal8x4WayC2Lwr";			String _text = "Kanal: 4-Wege"; }
-		{ String _name = "NMT30Canal8x4WayC2Tip";			String _text = "8x Old Stone Canal 4-Way (+ Connector). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x4WayC2Tip";			String _text = "8x Alter Stein Kanal-Vierweg (+-Verbindung). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xBridgeC2";			String _text = "Kanal: Brücke"; }
 		{ String _name = "NMT30Canal8xBridgeC2Lwr";			String _text = "Kanal: Brücke"; }
-		{ String _name = "NMT30Canal8xBridgeC2Tip";			String _text = "8x Old Stone Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Size: 4x8. Cost: 20 Stein."; }
+		{ String _name = "NMT30Canal8xBridgeC2Tip";			String _text = "8x Alter Stein Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Größe: 4x8. Kosten: 20 Stein."; }
 
 		{ String _name = "NMT30Canal8xCornerC2";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC2Lwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC2Tip";			String _text = "8x Old Stone Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xCornerC2Tip";			String _text = "8x Alter Stein Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xCornerC2R";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC2RLwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC2RTip";			String _text = "8x Old Stone Kanal-Ecke - reversed. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xCornerC2RTip";			String _text = "8x Alter Stein Kanal-Ecke - umgekehrt. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xDockC2";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC2Lwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC2Tip";			String _text = "8x Old Stone Canal Dock. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xDockC2Tip";			String _text = "8x Alter Stein Kanal-Anlegesteg. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xDockC2R";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC2RLwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC2RTip";			String _text = "8x Old Stone Canal Dock - reversed. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xDockC2RTip";			String _text = "8x Alter Stein Kanal-Anlegesteg - umgekehrt. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xEndC2";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC2Lwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC2Tip";			String _text = "8x Old Stone Kanal-Ende. Verwenden, um einen Kanal zu beenden. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xEndC2Tip";			String _text = "8x Alter Stein Kanal-Ende. Verwenden, um einen Kanal zu beenden. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xEndC2R";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC2RLwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC2RTip";			String _text = "8x Old Stone Kanal-Ende - Reversed. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xEndC2RTip";			String _text = "8x Alter Stein Kanal-Ende - umgekehrt. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFDockC2";				String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC2Lwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC2Tip";			String _text = "8x Old Stone Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xFDockC2Tip";			String _text = "8x Alter Stein Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFDockC2R";			String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC2RLwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC2RTip";			String _text = "8x Old Stone Kanal-Angelsteg - reversed. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xFDockC2RTip";			String _text = "8x Alter Stein Kanal-Angelsteg - umgekehrt. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFillerC2";			String _text = "Kanal: Füllstück"; }
 		{ String _name = "NMT30Canal8xFillerC2Lwr";			String _text = "Kanal: Füllstück"; }
-		{ String _name = "NMT30Canal8xFillerC2Tip";			String _text = "8x Old Stone Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Size: 1x8. Cost: 5 Stein."; }
+		{ String _name = "NMT30Canal8xFillerC2Tip";			String _text = "8x Alter Stein Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Größe: 1x8. Kosten: 5 Stein."; }
 
 		{ String _name = "NMT30Canal8xGateC2";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC2Lwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC2Tip";			String _text = "8x Old Stone Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xGateC2Tip";			String _text = "8x Alter Stein Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xGateC2R";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC2RLwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC2RTip";			String _text = "8x Old Stone Kanal-Tor - reversed. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xGateC2RTip";			String _text = "8x Alter Stein Kanal-Tor - umgekehrt. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xMillC2";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC2Lwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC2Tip";			String _text = "8x Old Stone Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Size: 10x14. Cost: 30 Stämme, 20 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC2Tip";			String _text = "8x Alter Stein Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Größe: 10x14. Kosten: 30 Stämme, 20 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xMillC2R";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC2RLwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC2RTip";			String _text = "8x Old Stone Kanal-Mühle - reversed. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 10x14. Cost: 30 Stämme, 20 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC2RTip";			String _text = "8x Alter Stein Kanal-Mühle - umgekehrt. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 10x14. Kosten: 30 Stämme, 20 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xStraightC2";			String _text = "Kanal: Gerade"; }
 		{ String _name = "NMT30Canal8xStraightC2Lwr";			String _text = "Kanal: Gerade"; }
-		{ String _name = "NMT30Canal8xStraightC2Tip";			String _text = "8x Old Stone Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xStraightC2Tip";			String _text = "8x Alter Stein Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC2";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC2Lwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC2Tip";		String _text = "8x Old Stone Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Size 10x15. Cost 40 Stämme, 30 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC2Tip";		String _text = "8x Alter Stein Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Größe 10x15. Kosten 40 Stämme, 30 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC2R";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC2RLwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC2RTip";		String _text = "8x Old Stone Kanal-Handelsposten - reversed. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Water flow is reversed in this version. Size 10x15. Cost 40 Stämme, 30 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC2RTip";		String _text = "8x Alter Stein Kanal-Handelsposten - umgekehrt. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 10x15. Kosten 40 Stämme, 30 Stein, 10 Eisen."; }
 
 
 		{ String _name = "NMT30Canal6x4JokerC2";			String _text = "Kanal: 6x4 Joker"; }
@@ -3456,11 +3456,11 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x6JokerC2";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC2Lwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC2Tip";			String _text = "6x-8x Old Stone Canal Joker. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Size 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x6JokerC2Tip";			String _text = "6x-8x Alter Stein Kanal-Joker. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Größe 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8x6JokerC2R";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC2RLwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC2RTip";			String _text = "6x-8x Old Stone Canal Joker - reversed. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Water flow is reversed in this version. Size 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x6JokerC2RTip";			String _text = "6x-8x Alter Stein Kanal-Joker - umgekehrt. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 4x8. Kosten: 10 Stein."; }
 
 
 		// NMT31 Canal Set Toolbars ++++++++++  MC3redbricks  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -3629,83 +3629,83 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x3WayC3";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC3Lwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC3Tip";			String _text = "8x Rote Ziegel Canal 3-Way (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x3WayC3Tip";			String _text = "8x Rote Ziegel Kanal-Dreiweg (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8x3WayC3R";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC3RLwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC3RTip";			String _text = "8x Rote Ziegel Canal 3-Way - Reversed (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x3WayC3RTip";			String _text = "8x Rote Ziegel Kanal-Dreiweg - umgekehrt (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8x4WayC3";				String _text = "Kanal: 4-Wege"; }
 		{ String _name = "NMT30Canal8x4WayC3Lwr";			String _text = "Kanal: 4-Wege"; }
-		{ String _name = "NMT30Canal8x4WayC3Tip";			String _text = "8x Rote Ziegel Canal 4-Way (+ Connector). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x4WayC3Tip";			String _text = "8x Rote Ziegel Kanal-Vierweg (+-Verbindung). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xBridgeC3";			String _text = "Kanal: Brücke"; }
 		{ String _name = "NMT30Canal8xBridgeC3Lwr";			String _text = "Kanal: Brücke"; }
-		{ String _name = "NMT30Canal8xBridgeC3Tip";			String _text = "8x Rote Ziegel Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Size: 4x8. Cost: 20 Ziegel."; }
+		{ String _name = "NMT30Canal8xBridgeC3Tip";			String _text = "8x Rote Ziegel Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Größe: 4x8. Kosten: 20 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xCornerC3";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC3Lwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC3Tip";			String _text = "8x Rote Ziegel Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xCornerC3Tip";			String _text = "8x Rote Ziegel Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xCornerC3R";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC3RLwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC3RTip";			String _text = "8x Rote Ziegel Kanal-Ecke - reversed. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xCornerC3RTip";			String _text = "8x Rote Ziegel Kanal-Ecke - umgekehrt. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xDockC3";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC3Lwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC3Tip";			String _text = "8x Rote Ziegel Canal Dock. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xDockC3Tip";			String _text = "8x Rote Ziegel Kanal-Anlegesteg. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xDockC3R";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC3RLwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC3RTip";			String _text = "8x Rote Ziegel Canal Dock - reversed. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xDockC3RTip";			String _text = "8x Rote Ziegel Kanal-Anlegesteg - umgekehrt. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xEndC3";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC3Lwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC3Tip";			String _text = "8x Rote Ziegel Kanal-Ende. Verwenden, um einen Kanal zu beenden. Size: 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xEndC3Tip";			String _text = "8x Rote Ziegel Kanal-Ende. Verwenden, um einen Kanal zu beenden. Größe: 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xEndC3R";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC3RLwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC3RTip";			String _text = "8x Rote Ziegel Kanal-Ende - Reversed. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xEndC3RTip";			String _text = "8x Rote Ziegel Kanal-Ende - umgekehrt. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xFDockC3";				String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC3Lwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC3Tip";			String _text = "8x Rote Ziegel Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xFDockC3Tip";			String _text = "8x Rote Ziegel Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xFDockC3R";			String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC3RLwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC3RTip";			String _text = "8x Rote Ziegel Kanal-Angelsteg - reversed. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xFDockC3RTip";			String _text = "8x Rote Ziegel Kanal-Angelsteg - umgekehrt. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xFillerC3";			String _text = "Kanal: Füllstück"; }
 		{ String _name = "NMT30Canal8xFillerC3Lwr";			String _text = "Kanal: Füllstück"; }
-		{ String _name = "NMT30Canal8xFillerC3Tip";			String _text = "8x Rote Ziegel Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Size: 1x8. Cost: 5 Ziegel."; }
+		{ String _name = "NMT30Canal8xFillerC3Tip";			String _text = "8x Rote Ziegel Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Größe: 1x8. Kosten: 5 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xGateC3";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC3Lwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC3Tip";			String _text = "8x Rote Ziegel Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xGateC3Tip";			String _text = "8x Rote Ziegel Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xGateC3R";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC3RLwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC3RTip";			String _text = "8x Rote Ziegel Kanal-Tor - reversed. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xGateC3RTip";			String _text = "8x Rote Ziegel Kanal-Tor - umgekehrt. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xMillC3";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC3Lwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC3Tip";			String _text = "8x Rote Ziegel Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Size: 10x14. Cost: 30 Stämme, 20 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC3Tip";			String _text = "8x Rote Ziegel Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Größe: 10x14. Kosten: 30 Stämme, 20 Ziegel, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xMillC3R";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC3RLwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC3RTip";			String _text = "8x Rote Ziegel Kanal-Mühle - reversed. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 10x14. Cost: 30 Stämme, 20 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC3RTip";			String _text = "8x Rote Ziegel Kanal-Mühle - umgekehrt. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 10x14. Kosten: 30 Stämme, 20 Ziegel, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xStraightC3";			String _text = "Kanal: Gerade"; }
 		{ String _name = "NMT30Canal8xStraightC3Lwr";			String _text = "Kanal: Gerade"; }
-		{ String _name = "NMT30Canal8xStraightC3Tip";			String _text = "8x Rote Ziegel Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Size: 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xStraightC3Tip";			String _text = "8x Rote Ziegel Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Größe: 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC3";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC3Lwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC3Tip";		String _text = "8x Rote Ziegel Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Size 10x15. Cost 40 Stämme, 30 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC3Tip";		String _text = "8x Rote Ziegel Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Größe 10x15. Kosten 40 Stämme, 30 Ziegel, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC3R";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC3RLwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC3RTip";		String _text = "8x Rote Ziegel Kanal-Handelsposten - reversed. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Water flow is reversed in this version. Size 10x15. Cost 40 Stämme, 30 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC3RTip";		String _text = "8x Rote Ziegel Kanal-Handelsposten - umgekehrt. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 10x15. Kosten 40 Stämme, 30 Ziegel, 10 Eisen."; }
 
 
 		{ String _name = "NMT30Canal6x4JokerC3";			String _text = "Kanal: 6x4 Joker"; }
@@ -3718,11 +3718,11 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x6JokerC3";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC3Lwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC3Tip";			String _text = "6x-8x Rote Ziegel Canal Joker. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Size 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x6JokerC3Tip";			String _text = "6x-8x Rote Ziegel Kanal-Joker. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Größe 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8x6JokerC3R";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC3RLwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC3RTip";			String _text = "6x-8x Rote Ziegel Canal Joker - reversed. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Water flow is reversed in this version. Size 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x6JokerC3RTip";			String _text = "6x-8x Rote Ziegel Kanal-Joker - umgekehrt. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 4x8. Kosten: 10 Ziegel."; }
 
 
 		// NMT31 Canal Set Toolbars ++++++++++  MC4sandstones  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -3891,83 +3891,83 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x3WayC4";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC4Lwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC4Tip";			String _text = "8x Sandziegel Canal 3-Way (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x3WayC4Tip";			String _text = "8x Sandziegel Kanal-Dreiweg (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8x3WayC4R";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC4RLwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC4RTip";			String _text = "8x Sandziegel Canal 3-Way - Reversed (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x3WayC4RTip";			String _text = "8x Sandziegel Kanal-Dreiweg - umgekehrt (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8x4WayC4";				String _text = "Kanal: 4-Wege"; }
 		{ String _name = "NMT30Canal8x4WayC4Lwr";			String _text = "Kanal: 4-Wege"; }
-		{ String _name = "NMT30Canal8x4WayC4Tip";			String _text = "8x Sandziegel Canal 4-Way (+ Connector). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x4WayC4Tip";			String _text = "8x Sandziegel Kanal-Vierweg (+-Verbindung). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xBridgeC4";			String _text = "Kanal: Brücke"; }
 		{ String _name = "NMT30Canal8xBridgeC4Lwr";			String _text = "Kanal: Brücke"; }
-		{ String _name = "NMT30Canal8xBridgeC4Tip";			String _text = "8x Sandziegel Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Size: 4x8. Cost: 20 Ziegel."; }
+		{ String _name = "NMT30Canal8xBridgeC4Tip";			String _text = "8x Sandziegel Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Größe: 4x8. Kosten: 20 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xCornerC4";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC4Lwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC4Tip";			String _text = "8x Sandziegel Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xCornerC4Tip";			String _text = "8x Sandziegel Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xCornerC4R";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC4RLwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC4RTip";			String _text = "8x Sandziegel Kanal-Ecke - reversed. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xCornerC4RTip";			String _text = "8x Sandziegel Kanal-Ecke - umgekehrt. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xDockC4";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC4Lwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC4Tip";			String _text = "8x Sandziegel Canal Dock. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xDockC4Tip";			String _text = "8x Sandziegel Kanal-Anlegesteg. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xDockC4R";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC4RLwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC4RTip";			String _text = "8x Sandziegel Canal Dock - reversed. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xDockC4RTip";			String _text = "8x Sandziegel Kanal-Anlegesteg - umgekehrt. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xEndC4";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC4Lwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC4Tip";			String _text = "8x Sandziegel Kanal-Ende. Verwenden, um einen Kanal zu beenden. Size: 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xEndC4Tip";			String _text = "8x Sandziegel Kanal-Ende. Verwenden, um einen Kanal zu beenden. Größe: 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xEndC4R";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC4RLwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC4RTip";			String _text = "8x Sandziegel Kanal-Ende - Reversed. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xEndC4RTip";			String _text = "8x Sandziegel Kanal-Ende - umgekehrt. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xFDockC4";				String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC4Lwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC4Tip";			String _text = "8x Sandziegel Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xFDockC4Tip";			String _text = "8x Sandziegel Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xFDockC4R";			String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC4RLwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC4RTip";			String _text = "8x Sandziegel Kanal-Angelsteg - reversed. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xFDockC4RTip";			String _text = "8x Sandziegel Kanal-Angelsteg - umgekehrt. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xFillerC4";			String _text = "Kanal: Füllstück"; }
 		{ String _name = "NMT30Canal8xFillerC4Lwr";			String _text = "Kanal: Füllstück"; }
-		{ String _name = "NMT30Canal8xFillerC4Tip";			String _text = "8x Sandziegel Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Size: 1x8. Cost: 5 Ziegel."; }
+		{ String _name = "NMT30Canal8xFillerC4Tip";			String _text = "8x Sandziegel Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Größe: 1x8. Kosten: 5 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xGateC4";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC4Lwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC4Tip";			String _text = "8x Sandziegel Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xGateC4Tip";			String _text = "8x Sandziegel Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xGateC4R";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC4RLwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC4RTip";			String _text = "8x Sandziegel Kanal-Tor - reversed. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xGateC4RTip";			String _text = "8x Sandziegel Kanal-Tor - umgekehrt. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xMillC4";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC4Lwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC4Tip";			String _text = "8x Sandziegel Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Size: 10x14. Cost: 30 Stämme, 20 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC4Tip";			String _text = "8x Sandziegel Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Größe: 10x14. Kosten: 30 Stämme, 20 Ziegel, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xMillC4R";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC4RLwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC4RTip";			String _text = "8x Sandziegel Kanal-Mühle - reversed. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 10x14. Cost: 30 Stämme, 20 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC4RTip";			String _text = "8x Sandziegel Kanal-Mühle - umgekehrt. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 10x14. Kosten: 30 Stämme, 20 Ziegel, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xStraightC4";			String _text = "Kanal: Gerade"; }
 		{ String _name = "NMT30Canal8xStraightC4Lwr";			String _text = "Kanal: Gerade"; }
-		{ String _name = "NMT30Canal8xStraightC4Tip";			String _text = "8x Sandziegel Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Size: 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xStraightC4Tip";			String _text = "8x Sandziegel Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Größe: 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC4";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC4Lwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC4Tip";		String _text = "8x Sandziegel Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Size 10x15. Cost 40 Stämme, 30 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC4Tip";		String _text = "8x Sandziegel Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Größe 10x15. Kosten 40 Stämme, 30 Ziegel, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC4R";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC4RLwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC4RTip";		String _text = "8x Sandziegel Kanal-Handelsposten - reversed. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Water flow is reversed in this version. Size 10x15. Cost 40 Stämme, 30 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC4RTip";		String _text = "8x Sandziegel Kanal-Handelsposten - umgekehrt. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 10x15. Kosten 40 Stämme, 30 Ziegel, 10 Eisen."; }
 
 
 		{ String _name = "NMT30Canal6x4JokerC4";			String _text = "Kanal: 6x4 Joker"; }
@@ -3980,11 +3980,11 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x6JokerC4";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC4Lwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC4Tip";			String _text = "6x-8x Sandziegel Canal Joker. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Size 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x6JokerC4Tip";			String _text = "6x-8x Sandziegel Kanal-Joker. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Größe 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8x6JokerC4R";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC4RLwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC4RTip";			String _text = "6x-8x Sandziegel Canal Joker - reversed. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Water flow is reversed in this version. Size 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x6JokerC4RTip";			String _text = "6x-8x Sandziegel Kanal-Joker - umgekehrt. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 4x8. Kosten: 10 Ziegel."; }
 
 
 		// NMT31 Canal Set Toolbars ++++++++++  MC5firebricks  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -4153,83 +4153,83 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x3WayC5";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC5Lwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC5Tip";			String _text = "8x Feuerziegel Canal 3-Way (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x3WayC5Tip";			String _text = "8x Feuerziegel Kanal-Dreiweg (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8x3WayC5R";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC5RLwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC5RTip";			String _text = "8x Feuerziegel Canal 3-Way - Reversed (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x3WayC5RTip";			String _text = "8x Feuerziegel Kanal-Dreiweg - umgekehrt (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8x4WayC5";				String _text = "Kanal: 4-Wege"; }
 		{ String _name = "NMT30Canal8x4WayC5Lwr";			String _text = "Kanal: 4-Wege"; }
-		{ String _name = "NMT30Canal8x4WayC5Tip";			String _text = "8x Feuerziegel Canal 4-Way (+ Connector). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x4WayC5Tip";			String _text = "8x Feuerziegel Kanal-Vierweg (+-Verbindung). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xBridgeC5";			String _text = "Kanal: Brücke"; }
 		{ String _name = "NMT30Canal8xBridgeC5Lwr";			String _text = "Kanal: Brücke"; }
-		{ String _name = "NMT30Canal8xBridgeC5Tip";			String _text = "8x Feuerziegel Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Size: 4x8. Cost: 20 Ziegel."; }
+		{ String _name = "NMT30Canal8xBridgeC5Tip";			String _text = "8x Feuerziegel Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Größe: 4x8. Kosten: 20 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xCornerC5";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC5Lwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC5Tip";			String _text = "8x Feuerziegel Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xCornerC5Tip";			String _text = "8x Feuerziegel Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xCornerC5R";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC5RLwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC5RTip";			String _text = "8x Feuerziegel Kanal-Ecke - reversed. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xCornerC5RTip";			String _text = "8x Feuerziegel Kanal-Ecke - umgekehrt. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xDockC5";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC5Lwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC5Tip";			String _text = "8x Feuerziegel Canal Dock. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xDockC5Tip";			String _text = "8x Feuerziegel Kanal-Anlegesteg. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xDockC5R";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC5RLwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC5RTip";			String _text = "8x Feuerziegel Canal Dock - reversed. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xDockC5RTip";			String _text = "8x Feuerziegel Kanal-Anlegesteg - umgekehrt. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xEndC5";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC5Lwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC5Tip";			String _text = "8x Feuerziegel Kanal-Ende. Verwenden, um einen Kanal zu beenden. Size: 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xEndC5Tip";			String _text = "8x Feuerziegel Kanal-Ende. Verwenden, um einen Kanal zu beenden. Größe: 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xEndC5R";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC5RLwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC5RTip";			String _text = "8x Feuerziegel Kanal-Ende - Reversed. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xEndC5RTip";			String _text = "8x Feuerziegel Kanal-Ende - umgekehrt. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xFDockC5";				String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC5Lwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC5Tip";			String _text = "8x Feuerziegel Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xFDockC5Tip";			String _text = "8x Feuerziegel Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xFDockC5R";			String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC5RLwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC5RTip";			String _text = "8x Feuerziegel Kanal-Angelsteg - reversed. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xFDockC5RTip";			String _text = "8x Feuerziegel Kanal-Angelsteg - umgekehrt. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xFillerC5";			String _text = "Kanal: Füllstück"; }
 		{ String _name = "NMT30Canal8xFillerC5Lwr";			String _text = "Kanal: Füllstück"; }
-		{ String _name = "NMT30Canal8xFillerC5Tip";			String _text = "8x Feuerziegel Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Size: 1x8. Cost: 5 Ziegel."; }
+		{ String _name = "NMT30Canal8xFillerC5Tip";			String _text = "8x Feuerziegel Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Größe: 1x8. Kosten: 5 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xGateC5";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC5Lwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC5Tip";			String _text = "8x Feuerziegel Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xGateC5Tip";			String _text = "8x Feuerziegel Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xGateC5R";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC5RLwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC5RTip";			String _text = "8x Feuerziegel Kanal-Tor - reversed. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xGateC5RTip";			String _text = "8x Feuerziegel Kanal-Tor - umgekehrt. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xMillC5";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC5Lwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC5Tip";			String _text = "8x Feuerziegel Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Size: 10x14. Cost: 30 Stämme, 20 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC5Tip";			String _text = "8x Feuerziegel Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Größe: 10x14. Kosten: 30 Stämme, 20 Ziegel, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xMillC5R";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC5RLwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC5RTip";			String _text = "8x Feuerziegel Kanal-Mühle - reversed. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 10x14. Cost: 30 Stämme, 20 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC5RTip";			String _text = "8x Feuerziegel Kanal-Mühle - umgekehrt. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 10x14. Kosten: 30 Stämme, 20 Ziegel, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xStraightC5";			String _text = "Kanal: Gerade"; }
 		{ String _name = "NMT30Canal8xStraightC5Lwr";			String _text = "Kanal: Gerade"; }
-		{ String _name = "NMT30Canal8xStraightC5Tip";			String _text = "8x Feuerziegel Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Size: 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8xStraightC5Tip";			String _text = "8x Feuerziegel Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Größe: 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC5";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC5Lwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC5Tip";		String _text = "8x Feuerziegel Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Size 10x15. Cost 40 Stämme, 30 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC5Tip";		String _text = "8x Feuerziegel Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Größe 10x15. Kosten 40 Stämme, 30 Ziegel, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC5R";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC5RLwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC5RTip";		String _text = "8x Feuerziegel Kanal-Handelsposten - reversed. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Water flow is reversed in this version. Size 10x15. Cost 40 Stämme, 30 Ziegel, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC5RTip";		String _text = "8x Feuerziegel Kanal-Handelsposten - umgekehrt. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 10x15. Kosten 40 Stämme, 30 Ziegel, 10 Eisen."; }
 
 
 		{ String _name = "NMT30Canal6x4JokerC5";			String _text = "Kanal: 6x4 Joker"; }
@@ -4242,11 +4242,11 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x6JokerC5";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC5Lwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC5Tip";			String _text = "6x-8x Feuerziegel Canal Joker. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Size 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x6JokerC5Tip";			String _text = "6x-8x Feuerziegel Kanal-Joker. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Größe 4x8. Kosten: 10 Ziegel."; }
 
 		{ String _name = "NMT30Canal8x6JokerC5R";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC5RLwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC5RTip";			String _text = "6x-8x Feuerziegel Canal Joker - reversed. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Water flow is reversed in this version. Size 4x8. Cost: 10 Ziegel."; }
+		{ String _name = "NMT30Canal8x6JokerC5RTip";			String _text = "6x-8x Feuerziegel Kanal-Joker - umgekehrt. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 4x8. Kosten: 10 Ziegel."; }
 
 
 		// NMT31 Canal Set Toolbars ++++++++++  MC6oldchurch  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -4415,83 +4415,83 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x3WayC6";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC6Lwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC6Tip";			String _text = "8x Old Church Stone Canal 3-Way (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x3WayC6Tip";			String _text = "8x Alter Kirchenstein Kanal-Dreiweg (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8x3WayC6R";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC6RLwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC6RTip";			String _text = "8x Old Church Stone Canal 3-Way - Reversed (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x3WayC6RTip";			String _text = "8x Alter Kirchenstein Kanal-Dreiweg - umgekehrt (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8x4WayC6";				String _text = "Kanal: 4-Wege"; }
 		{ String _name = "NMT30Canal8x4WayC6Lwr";			String _text = "Kanal: 4-Wege"; }
-		{ String _name = "NMT30Canal8x4WayC6Tip";			String _text = "8x Old Church Stone Canal 4-Way (+ Connector). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x4WayC6Tip";			String _text = "8x Alter Kirchenstein Kanal-Vierweg (+-Verbindung). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xBridgeC6";			String _text = "Kanal: Brücke"; }
 		{ String _name = "NMT30Canal8xBridgeC6Lwr";			String _text = "Kanal: Brücke"; }
-		{ String _name = "NMT30Canal8xBridgeC6Tip";			String _text = "8x Old Church Stone Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Size: 4x8. Cost: 20 Stein."; }
+		{ String _name = "NMT30Canal8xBridgeC6Tip";			String _text = "8x Alter Kirchenstein Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Größe: 4x8. Kosten: 20 Stein."; }
 
 		{ String _name = "NMT30Canal8xCornerC6";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC6Lwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC6Tip";			String _text = "8x Old Church Stone Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xCornerC6Tip";			String _text = "8x Alter Kirchenstein Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xCornerC6R";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC6RLwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC6RTip";			String _text = "8x Old Church Stone Kanal-Ecke - reversed. Verwenden, um die Richtung eines Kanals zu ändern. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xCornerC6RTip";			String _text = "8x Alter Kirchenstein Kanal-Ecke - umgekehrt. Verwenden, um die Richtung eines Kanals zu ändern. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xDockC6";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC6Lwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC6Tip";			String _text = "8x Old Church Stone Canal Dock. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xDockC6Tip";			String _text = "8x Alter Kirchenstein Kanal-Anlegesteg. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xDockC6R";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC6RLwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC6RTip";			String _text = "8x Old Church Stone Canal Dock - reversed. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xDockC6RTip";			String _text = "8x Alter Kirchenstein Kanal-Anlegesteg - umgekehrt. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xEndC6";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC6Lwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC6Tip";			String _text = "8x Old Church Stone Kanal-Ende. Verwenden, um einen Kanal zu beenden. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xEndC6Tip";			String _text = "8x Alter Kirchenstein Kanal-Ende. Verwenden, um einen Kanal zu beenden. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xEndC6R";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC6RLwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC6RTip";			String _text = "8x Old Church Stone Kanal-Ende - Reversed. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xEndC6RTip";			String _text = "8x Alter Kirchenstein Kanal-Ende - umgekehrt. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFDockC6";				String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC6Lwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC6Tip";			String _text = "8x Old Church Stone Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xFDockC6Tip";			String _text = "8x Alter Kirchenstein Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFDockC6R";			String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC6RLwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC6RTip";			String _text = "8x Old Church Stone Kanal-Angelsteg - reversed. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xFDockC6RTip";			String _text = "8x Alter Kirchenstein Kanal-Angelsteg - umgekehrt. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFillerC6";			String _text = "Kanal: Füllstück"; }
 		{ String _name = "NMT30Canal8xFillerC6Lwr";			String _text = "Kanal: Füllstück"; }
-		{ String _name = "NMT30Canal8xFillerC6Tip";			String _text = "8x Old Church Stone Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Size: 1x8. Cost: 5 Stein."; }
+		{ String _name = "NMT30Canal8xFillerC6Tip";			String _text = "8x Alter Kirchenstein Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Größe: 1x8. Kosten: 5 Stein."; }
 
 		{ String _name = "NMT30Canal8xGateC6";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC6Lwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC6Tip";			String _text = "8x Old Church Stone Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xGateC6Tip";			String _text = "8x Alter Kirchenstein Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xGateC6R";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC1RLwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC6RTip";			String _text = "8x Old Church Stone Kanal-Tor - reversed. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xGateC6RTip";			String _text = "8x Alter Kirchenstein Kanal-Tor - umgekehrt. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xMillC6";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC6Lwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC6Tip";			String _text = "8x Old Church Stone Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Size: 10x14. Cost: 30 Stämme, 20 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC6Tip";			String _text = "8x Alter Kirchenstein Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Größe: 10x14. Kosten: 30 Stämme, 20 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xMillC6R";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC6RLwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC6RTip";			String _text = "8x Old Church Stone Kanal-Mühle - reversed. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 10x14. Cost: 30 Stämme, 20 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC6RTip";			String _text = "8x Alter Kirchenstein Kanal-Mühle - umgekehrt. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 10x14. Kosten: 30 Stämme, 20 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xStraightC6";			String _text = "Kanal: Gerade"; }
 		{ String _name = "NMT30Canal8xStraightC6Lwr";			String _text = "Kanal: Gerade"; }
-		{ String _name = "NMT30Canal8xStraightC6Tip";			String _text = "8x Old Church Stone Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xStraightC6Tip";			String _text = "8x Alter Kirchenstein Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC6";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC6Lwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC6Tip";		String _text = "8x Old Church Stone Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Size 10x15. Cost 40 Stämme, 30 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC6Tip";		String _text = "8x Alter Kirchenstein Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Größe 10x15. Kosten 40 Stämme, 30 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC6R";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC6RLwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC6RTip";		String _text = "8x Old Church Stone Kanal-Handelsposten - reversed. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Water flow is reversed in this version. Size 10x15. Cost 40 Stämme, 30 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC6RTip";		String _text = "8x Alter Kirchenstein Kanal-Handelsposten - umgekehrt. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 10x15. Kosten 40 Stämme, 30 Stein, 10 Eisen."; }
 
 
 		{ String _name = "NMT30Canal6x4JokerC6";			String _text = "Kanal: 6x4 Joker"; }
@@ -4504,11 +4504,11 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x6JokerC6";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC6Lwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC6Tip";			String _text = "6x-8x Alte Kirchensteine Canal Joker. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Size 4x8. Cost: 10 Steine."; }
+		{ String _name = "NMT30Canal8x6JokerC6Tip";			String _text = "6x-8x Alte Kirchensteine Kanal-Joker. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Größe 4x8. Kosten: 10 Steine."; }
 
 		{ String _name = "NMT30Canal8x6JokerC6R";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC6RLwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC6RTip";			String _text = "6x-8x Alte Kirchensteine Canal Joker - reversed. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Water flow is reversed in this version. Size 4x8. Cost: 10 Steine."; }
+		{ String _name = "NMT30Canal8x6JokerC6RTip";			String _text = "6x-8x Alte Kirchensteine Kanal-Joker - umgekehrt. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 4x8. Kosten: 10 Steine."; }
 
 
 		// NMT31 Canal Set Toolbars ++++++++++  MC7darkstones  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -4677,83 +4677,83 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x3WayC7";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC7Lwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC7Tip";			String _text = "8x Dark Stone Canal 3-Way (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x3WayC7Tip";			String _text = "8x Dunkler Stein Kanal-Dreiweg (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8x3WayC7R";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC7RLwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC7RTip";			String _text = "8x Dark Stone Canal 3-Way - Reversed (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x3WayC7RTip";			String _text = "8x Dunkler Stein Kanal-Dreiweg - umgekehrt (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8x4WayC7";				String _text = "Kanal: 4-Wege"; }
 		{ String _name = "NMT30Canal8x4WayC7Lwr";			String _text = "Kanal: 4-Wege"; }
-		{ String _name = "NMT30Canal8x4WayC7Tip";			String _text = "8x Dark Stone Canal 4-Way (+ Connector). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8x4WayC7Tip";			String _text = "8x Dunkler Stein Kanal-Vierweg (+-Verbindung). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xBridgeC7";			String _text = "Kanal: Brücke"; }
 		{ String _name = "NMT30Canal8xBridgeC7Lwr";			String _text = "Kanal: Brücke"; }
-		{ String _name = "NMT30Canal8xBridgeC7Tip";			String _text = "8x Dark Stone Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Size: 4x8. Cost: 20 Stein."; }
+		{ String _name = "NMT30Canal8xBridgeC7Tip";			String _text = "8x Dunkler Stein Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Größe: 4x8. Kosten: 20 Stein."; }
 
 		{ String _name = "NMT30Canal8xCornerC7";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC7Lwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC7Tip";			String _text = "8x Dark Stone Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xCornerC7Tip";			String _text = "8x Dunkler Stein Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xCornerC7R";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC7RLwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC7RTip";			String _text = "8x Dark Stone Kanal-Ecke - reversed. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xCornerC7RTip";			String _text = "8x Dunkler Stein Kanal-Ecke - umgekehrt. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xDockC7";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC7Lwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC7Tip";			String _text = "8x Dark Stone Canal Dock. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xDockC7Tip";			String _text = "8x Dunkler Stein Kanal-Anlegesteg. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xDockC7R";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC7RLwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC7RTip";			String _text = "8x Dark Stone Canal Dock - reversed. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xDockC7RTip";			String _text = "8x Dunkler Stein Kanal-Anlegesteg - umgekehrt. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xEndC7";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC7Lwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC7Tip";			String _text = "8x Dark Stone Kanal-Ende. Verwenden, um einen Kanal zu beenden. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xEndC7Tip";			String _text = "8x Dunkler Stein Kanal-Ende. Verwenden, um einen Kanal zu beenden. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xEndC7R";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC7RLwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC7RTip";			String _text = "8x Dark Stone Kanal-Ende - Reversed. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xEndC7RTip";			String _text = "8x Dunkler Stein Kanal-Ende - umgekehrt. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFDockC7";				String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC7Lwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC7Tip";			String _text = "8x Dark Stone Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xFDockC7Tip";			String _text = "8x Dunkler Stein Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFDockC7R";			String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC7RLwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC7RTip";			String _text = "8x Dark Stone Kanal-Angelsteg - reversed. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xFDockC7RTip";			String _text = "8x Dunkler Stein Kanal-Angelsteg - umgekehrt. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xFillerC7";			String _text = "Kanal: Füllstück"; }
 		{ String _name = "NMT30Canal8xFillerC7Lwr";			String _text = "Kanal: Füllstück"; }
-		{ String _name = "NMT30Canal8xFillerC7Tip";			String _text = "8x Dark Stone Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Size: 1x8. Cost: 5 Stein."; }
+		{ String _name = "NMT30Canal8xFillerC7Tip";			String _text = "8x Dunkler Stein Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Größe: 1x8. Kosten: 5 Stein."; }
 
 		{ String _name = "NMT30Canal8xGateC7";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC7Lwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC7Tip";			String _text = "8x Dark Stone Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xGateC7Tip";			String _text = "8x Dunkler Stein Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xGateC7R";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC7RLwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC7RTip";			String _text = "8x Dark Stone Kanal-Tor - reversed. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme, 10 Stein."; }
+		{ String _name = "NMT30Canal8xGateC7RTip";			String _text = "8x Dunkler Stein Kanal-Tor - umgekehrt. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme, 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xMillC7";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC7Lwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC7Tip";			String _text = "8x Dark Stone Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Size: 10x14. Cost: 30 Stämme, 20 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC7Tip";			String _text = "8x Dunkler Stein Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Größe: 10x14. Kosten: 30 Stämme, 20 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xMillC7R";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC7RLwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC7RTip";			String _text = "8x Dark Stone Kanal-Mühle - reversed. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 10x14. Cost: 30 Stämme, 20 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC7RTip";			String _text = "8x Dunkler Stein Kanal-Mühle - umgekehrt. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 10x14. Kosten: 30 Stämme, 20 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xStraightC7";			String _text = "Kanal: Gerade"; }
 		{ String _name = "NMT30Canal8xStraightC7Lwr";			String _text = "Kanal: Gerade"; }
-		{ String _name = "NMT30Canal8xStraightC7Tip";			String _text = "8x Dark Stone Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Size: 4x8. Cost: 10 Stein."; }
+		{ String _name = "NMT30Canal8xStraightC7Tip";			String _text = "8x Dunkler Stein Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Größe: 4x8. Kosten: 10 Stein."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC7";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC7Lwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC7Tip";		String _text = "8x Dark Stone Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Size 10x15. Cost 40 Stämme, 30 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC7Tip";		String _text = "8x Dunkler Stein Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Größe 10x15. Kosten 40 Stämme, 30 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC7R";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC7RLwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC7RTip";		String _text = "8x Dark Stone Kanal-Handelsposten - reversed. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Water flow is reversed in this version. Size 10x15. Cost 40 Stämme, 30 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC7RTip";		String _text = "8x Dunkler Stein Kanal-Handelsposten - umgekehrt. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 10x15. Kosten 40 Stämme, 30 Stein, 10 Eisen."; }
 
 
 		{ String _name = "NMT30Canal6x4JokerC7";			String _text = "Kanal: 6x4 Joker"; }
@@ -4766,11 +4766,11 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x6JokerC7";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC7Lwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC7Tip";			String _text = "6x-8x Dunkle Steine Canal Joker. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Size 4x8. Cost: 10 Steine."; }
+		{ String _name = "NMT30Canal8x6JokerC7Tip";			String _text = "6x-8x Dunkle Steine Kanal-Joker. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Größe 4x8. Kosten: 10 Steine."; }
 
 		{ String _name = "NMT30Canal8x6JokerC7R";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC7RLwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC7RTip";			String _text = "6x-8x Dunkle Steine Canal Joker - reversed. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Water flow is reversed in this version. Size 4x8. Cost: 10 Steine."; }
+		{ String _name = "NMT30Canal8x6JokerC7RTip";			String _text = "6x-8x Dunkle Steine Kanal-Joker - umgekehrt. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 4x8. Kosten: 10 Steine."; }
 
 
 		// NMT31 Canal Set Toolbars ++++++++++  MC8oldwood  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -4939,83 +4939,83 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x3WayC8";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC8Lwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC8Tip";			String _text = "8x Altes Holz Canal 3-Way (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Size: 8x8. Cost: 10 Stämme."; }
+		{ String _name = "NMT30Canal8x3WayC8Tip";			String _text = "8x Altes Holz Kanal-Dreiweg (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Größe: 8x8. Kosten: 10 Stämme."; }
 
 		{ String _name = "NMT30Canal8x3WayC8R";				String _text = "Kanal: 3-Wege"; }
 		{ String _name = "NMT30Canal8x3WayC8RLwr";			String _text = "Kanal: 3-Wege"; }
-		{ String _name = "NMT30Canal8x3WayC8RTip";			String _text = "8x Altes Holz Canal 3-Way - Reversed (T Connector). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Stämme."; }
+		{ String _name = "NMT30Canal8x3WayC8RTip";			String _text = "8x Altes Holz Kanal-Dreiweg - umgekehrt (T-Verbindung). Verwenden, um einen weiteren Kanal an Ihren Hauptkanal anzuschließen. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Stämme."; }
 
 		{ String _name = "NMT30Canal8x4WayC8";				String _text = "Kanal: 4-Wege"; }
 		{ String _name = "NMT30Canal8x4WayC8Lwr";			String _text = "Kanal: 4-Wege"; }
-		{ String _name = "NMT30Canal8x4WayC8Tip";			String _text = "8x Altes Holz Canal 4-Way (+ Connector). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Size: 8x8. Cost: 10 Stämme."; }
+		{ String _name = "NMT30Canal8x4WayC8Tip";			String _text = "8x Altes Holz Kanal-Vierweg (+-Verbindung). Verwenden, um Kanäle an beiden Seiten Ihres Hauptkanals anzuschließen. Größe: 8x8. Kosten: 10 Stämme."; }
 
 		{ String _name = "NMT30Canal8xBridgeC8";			String _text = "Kanal: Brücke"; }
 		{ String _name = "NMT30Canal8xBridgeC8Lwr";			String _text = "Kanal: Brücke"; }
-		{ String _name = "NMT30Canal8xBridgeC8Tip";			String _text = "8x Altes Holz Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Size: 4x8. Cost: 20 Stämme."; }
+		{ String _name = "NMT30Canal8xBridgeC8Tip";			String _text = "8x Altes Holz Kanal-Brücke. Verwenden, um eine Brücke hinzuzufügen, damit Bürger über Ihren Kanal gehen können. Größe: 4x8. Kosten: 20 Stämme."; }
 
 		{ String _name = "NMT30Canal8xCornerC8";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC8Lwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC8Tip";			String _text = "8x Altes Holz Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Size: 8x8. Cost: 10 Stämme."; }
+		{ String _name = "NMT30Canal8xCornerC8Tip";			String _text = "8x Altes Holz Kanal-Ecke. Verwenden, um die Richtung eines Kanals zu ändern. Größe: 8x8. Kosten: 10 Stämme."; }
 
 		{ String _name = "NMT30Canal8xCornerC8R";			String _text = "Kanal: Ecke"; }
 		{ String _name = "NMT30Canal8xCornerC8RLwr";			String _text = "Kanal: Ecke"; }
-		{ String _name = "NMT30Canal8xCornerC8RTip";			String _text = "8x Altes Holz Kanal-Ecke - reversed. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 8x8. Cost: 10 Stämme."; }
+		{ String _name = "NMT30Canal8xCornerC8RTip";			String _text = "8x Altes Holz Kanal-Ecke - umgekehrt. Verwenden, um die Richtung eines Kanals zu ändern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 8x8. Kosten: 10 Stämme."; }
 
 		{ String _name = "NMT30Canal8xDockC8";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC8Lwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC8Tip";			String _text = "8x Altes Holz Canal Dock. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Size: 4x8. Cost: 20 Stämme."; }
+		{ String _name = "NMT30Canal8xDockC8Tip";			String _text = "8x Altes Holz Kanal-Anlegesteg. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Größe: 4x8. Kosten: 20 Stämme."; }
 
 		{ String _name = "NMT30Canal8xDockC8R";				String _text = "Kanal: Anlegesteg"; }
 		{ String _name = "NMT30Canal8xDockC8RLwr";			String _text = "Kanal: Anlegesteg"; }
-		{ String _name = "NMT30Canal8xDockC8RTip";			String _text = "8x Altes Holz Canal Dock - reversed. Adds a storage area to a canal. Stores 1200 weight of food, clothing, tools, herbs and textiles. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 20 Stämme."; }
+		{ String _name = "NMT30Canal8xDockC8RTip";			String _text = "8x Altes Holz Kanal-Anlegesteg - umgekehrt. Fügt einem Kanal einen Lagerbereich hinzu. Lagert 1200 Gewichtseinheiten an Lebensmitteln, Kleidung, Werkzeugen, Kräutern und Textilien. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 20 Stämme."; }
 
 		{ String _name = "NMT30Canal8xEndC8";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC8Lwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC8Tip";			String _text = "8x Altes Holz Kanal-Ende. Verwenden, um einen Kanal zu beenden. Size: 4x8. Cost: 10 Stämme."; }
+		{ String _name = "NMT30Canal8xEndC8Tip";			String _text = "8x Altes Holz Kanal-Ende. Verwenden, um einen Kanal zu beenden. Größe: 4x8. Kosten: 10 Stämme."; }
 
 		{ String _name = "NMT30Canal8xEndC8R";				String _text = "Kanal: Ende"; }
 		{ String _name = "NMT30Canal8xEndC8RLwr";			String _text = "Kanal: Ende"; }
-		{ String _name = "NMT30Canal8xEndC8RTip";			String _text = "8x Altes Holz Kanal-Ende - Reversed. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 10 Stämme."; }
+		{ String _name = "NMT30Canal8xEndC8RTip";			String _text = "8x Altes Holz Kanal-Ende - umgekehrt. Verwenden, um einen Kanal zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 10 Stämme."; }
 
 		{ String _name = "NMT30Canal8xFDockC8";				String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC8Lwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC8Tip";			String _text = "8x Altes Holz Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Size: 4x8. Cost: 20 Stämme."; }
+		{ String _name = "NMT30Canal8xFDockC8Tip";			String _text = "8x Altes Holz Kanal-Angelsteg. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Größe: 4x8. Kosten: 20 Stämme."; }
 
 		{ String _name = "NMT30Canal8xFDockC8R";			String _text = "Kanal: Angelsteg"; }
 		{ String _name = "NMT30Canal8xFDockC8RLwr";			String _text = "Kanal: Angelsteg"; }
-		{ String _name = "NMT30Canal8xFDockC8RTip";			String _text = "8x Altes Holz Kanal-Angelsteg - reversed. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 20 Stämme."; }
+		{ String _name = "NMT30Canal8xFDockC8RTip";			String _text = "8x Altes Holz Kanal-Angelsteg - umgekehrt. Fügt einen Angelsteg an einen Kanal hinzu. Beschäftigt 1-2 Fischer. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 20 Stämme."; }
 
 		{ String _name = "NMT30Canal8xFillerC8";			String _text = "Kanal: Füllstück"; }
 		{ String _name = "NMT30Canal8xFillerC8Lwr";			String _text = "Kanal: Füllstück"; }
-		{ String _name = "NMT30Canal8xFillerC8Tip";			String _text = "8x Altes Holz Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Size: 1x8. Cost: 5 Stämme."; }
+		{ String _name = "NMT30Canal8xFillerC8Tip";			String _text = "8x Altes Holz Kanal-Füllstück. Verwenden, wenn ein normales gerades Kanalstück zu lang ist. Größe: 1x8. Kosten: 5 Stämme."; }
 
 		{ String _name = "NMT30Canal8xGateC8";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC8Lwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC8Tip";			String _text = "8x Altes Holz Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Size: 4x8. Cost: 20 Stämme."; }
+		{ String _name = "NMT30Canal8xGateC8Tip";			String _text = "8x Altes Holz Kanal-Tor. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Größe: 4x8. Kosten: 20 Stämme."; }
 
 		{ String _name = "NMT30Canal8xGateC8R";				String _text = "Kanal: Tor"; }
 		{ String _name = "NMT30Canal8xGateC8RLwr";			String _text = "Kanal: Tor"; }
-		{ String _name = "NMT30Canal8xGateC8RTip";			String _text = "8x Altes Holz Kanal-Tor - reversed. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 4x8. Cost: 20 Stämme."; }
+		{ String _name = "NMT30Canal8xGateC8RTip";			String _text = "8x Altes Holz Kanal-Tor - umgekehrt. Verwenden, um einen Kanal an einem Fluss oder See zu beginnen oder zu beenden. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 4x8. Kosten: 20 Stämme."; }
 
 		{ String _name = "NMT30Canal8xMillC8";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC8Lwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC8Tip";			String _text = "8x Altes Holz Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Size: 10x14. Cost: 40 Stämme, 10 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC8Tip";			String _text = "8x Altes Holz Kanal-Mühle. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Größe: 10x14. Kosten: 40 Stämme, 10 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xMillC8R";				String _text = "Kanal: Mühle"; }
 		{ String _name = "NMT30Canal8xMillC8RLwr";			String _text = "Kanal: Mühle"; }
-		{ String _name = "NMT30Canal8xMillC8RTip";			String _text = "8x Altes Holz Kanal-Mühle - reversed. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Size: 10x14. Cost: 40 Stämme, 10 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xMillC8RTip";			String _text = "8x Altes Holz Kanal-Mühle - umgekehrt. Fügt eine Mühle zur Mehlherstellung aus Getreide an einen Kanal hinzu. Beschäftigt 1-3 Müller. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe: 10x14. Kosten: 40 Stämme, 10 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xStraightC8";			String _text = "Kanal: Gerade"; }
 		{ String _name = "NMT30Canal8xStraightC8Lwr";			String _text = "Kanal: Gerade"; }
-		{ String _name = "NMT30Canal8xStraightC8Tip";			String _text = "8x Altes Holz Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Size: 4x8. Cost: 10 Stämme."; }
+		{ String _name = "NMT30Canal8xStraightC8Tip";			String _text = "8x Altes Holz Kanal-Gerade. Dies ist das Hauptstück zum Bau eines Kanalsystems. Größe: 4x8. Kosten: 10 Stämme."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC8";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC8Lwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC8Tip";		String _text = "8x Altes Holz Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Size 10x15. Cost 50 Stämme, 20 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC8Tip";		String _text = "8x Altes Holz Kanal-Handelsposten. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Größe 10x15. Kosten 50 Stämme, 20 Stein, 10 Eisen."; }
 
 		{ String _name = "NMT30Canal8xTradingPostC8R";			String _text = "Kanal: Handelsposten"; }
 		{ String _name = "NMT30Canal8xTradingPostC8RLwr";		String _text = "Kanal: Handelsposten"; }
-		{ String _name = "NMT30Canal8xTradingPostC8RTip";		String _text = "8x Altes Holz Kanal-Handelsposten - reversed. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Water flow is reversed in this version. Size 10x15. Cost 50 Stämme, 20 Stein, 10 Eisen."; }
+		{ String _name = "NMT30Canal8xTradingPostC8RTip";		String _text = "8x Altes Holz Kanal-Handelsposten - umgekehrt. Fügt einen Handelsposten an einen Kanal hinzu. beschäftigt 1-20 Händler. Lagert 60.000 Gewicht. Zufriedenheitsradius = 20. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 10x15. Kosten 50 Stämme, 20 Stein, 10 Eisen."; }
 
 
 		{ String _name = "NMT30Canal6x4JokerC8";			String _text = "Kanal: 6x4 Joker"; }
@@ -5028,11 +5028,11 @@ StringTable resource
 
 		{ String _name = "NMT30Canal8x6JokerC8";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC8Lwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC8Tip";			String _text = "6x-8x Altes Holz Canal Joker. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Size 4x8. Cost: 10 Stämme."; }
+		{ String _name = "NMT30Canal8x6JokerC8Tip";			String _text = "6x-8x Altes Holz Kanal-Joker. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Größe 4x8. Kosten: 10 Stämme."; }
 
 		{ String _name = "NMT30Canal8x6JokerC8R";			String _text = "Kanal: 8x6 Joker"; }
 		{ String _name = "NMT30Canal8x6JokerC8RLwr";			String _text = "Kanal: 8x6 Joker"; }
-		{ String _name = "NMT30Canal8x6JokerC8RTip";			String _text = "6x-8x Altes Holz Canal Joker - reversed. Used to increase canal size from 6x to 8x or decrease size from 8x to 6x. Water flow is reversed in this version. Size 4x8. Cost: 10 Stämme."; }
+		{ String _name = "NMT30Canal8x6JokerC8RTip";			String _text = "6x-8x Altes Holz Kanal-Joker - umgekehrt. Wird verwendet, um die Kanalgröße von 6x auf 8x zu erhöhen oder von 8x auf 6x zu verringern. Die Wasserfließrichtung ist in dieser Version umgekehrt. Größe 4x8. Kosten: 10 Stämme."; }
 
 
 

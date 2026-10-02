@@ -134,5 +134,26 @@ StringTable resource
 		{ String _name = "SeedOilPecanRequire";							String _text = "Samenöl [25 Pekannüsse + 1 Amphore]"; }
 		{ String _name = "SeedOilWalnutRequire";						String _text = "Samenöl [25 Walnüsse + 1 Amphore]"; }
 		{ String _name = "VegetableOilSunflowerRequire";				String _text = "Pflanzenöl [25 Kerne + 1 Amphore]"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Brick";				String _text = "Ziegel"; }
+		{ String _name = "Charcoal";				String _text = "Holzkohle"; }
+		{ String _name = "Custom5Limit";				String _text = "Baumaterial-Grenzwert"; }
+		{ String _name = "Custom5LimitShort";				String _text = "Bau"; }
+		{ String _name = "Custom5LimitTip";				String _text = "Steuert die Menge der gelagerten Baumaterialien. Sobald dieser Grenzwert erreicht ist, stoppt die Produktion."; }
+		{ String _name = "EBSVBrickCharCoalRequire";				String _text = "Ziegel [10 Ton + 3 Holzkohle]"; }
+		{ String _name = "EBSVBrickCoalRequire";				String _text = "Ziegel [10 Ton + 3 Kohle]"; }
+		{ String _name = "EBSVGlassCharCoalRequire";				String _text = "Glas [23 Sand + 3 Holzkohle]"; }
+		{ String _name = "EBSVGlassCoalRequire";				String _text = "Glas [23 Sand + 3 Kohle]"; }
+		{ String _name = "EBSVLumberRequire";				String _text = "Schnittholz [4 Holz]"; }
+		{ String _name = "EBSVWorkShop";				String _text = "Dorfwerkstatt"; }
+		{ String _name = "EBSVWorkShopLwr";				String _text = "dorfwerkstatt"; }
+		{ String _name = "EBSVWorkShopTip";				String _text = "Die Dorfwerkstatt produziert Ziegel, Glas und Schnittholz. Bis zu 2 Handwerker können beschäftigt werden, um 6 bis 8 Ziegel aus 10 Ton und entweder 3 Kohle oder 3 Holzkohle herzustellen. 7 bis 8 Glas aus 23 Sand und entweder 3 Kohle oder 3 Holzkohle. 4 bis 5 Schnittholz aus 4 Stämmen. Bauzyklen: 94. 2 F-Tasten-Farbvariationen."; }
+		{ String _name = "Glass";				String _text = "Glas"; }
+		{ String _name = "Lumber";				String _text = "Schnittholz"; }
+		{ String _name = "ProfessionCraftsman";				String _text = "Handwerker"; }
+		{ String _name = "ProfessionCraftsmanDeath";				String _text = "wurde von einem einstürzenden Ziegelstapel erdrückt."; }
+		{ String _name = "ProfessionCraftsmanTip";				String _text = "Der Handwerker produziert Glas, Ziegel und Schnittholz in der Werkstatt."; }
+
 	]
 }		

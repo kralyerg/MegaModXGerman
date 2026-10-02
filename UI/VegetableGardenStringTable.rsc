@@ -27,5 +27,11 @@ StringTable resource
 
 		{ String _name = "EasyName";			String _text = "Gemuesegarten Leicht"; }
 		{ String _name = "EasyDesc";			String _text = "Ein leichtes Spiel beginnt mit sechs Familien. Eine grosse Menge an Kleidung, Nahrung, Brennholz, Baumaterialien und Werkzeugen wird bereitgestellt. Haeuser und Lagerbereiche wurden bereits gebaut. Saatgut fuer Felder und Obstgaerten ist verfuegbar, ebenso eine Herde Vieh."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ProfessionHomeGrower";				String _text = "Gärtner"; }
+		{ String _name = "ProfessionHomeGrowerDeath";				String _text = "Wurde schwer geschnitten und starb an einer Blutvergiftung."; }
+		{ String _name = "ProfessionHomeGrowerTip";				String _text = "Gärtner"; }
+
 	]
 }

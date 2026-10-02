@@ -160,5 +160,104 @@ StringTable resource
 		{ String _name = "DSThompsonTradeDecoBalePole";			String _text = "Heuballen"; }
 		{ String _name = "DSThompsonTradeDecoBalePoleLwr";		String _text = "Thompson Handelssteg"; }
 		{ String _name = "DSThompsonTradeDecoBalePoleTip";		String _text = "Ein dekorativer Heuballen ohne Bauzeit. Kostenlos zu bauen. Löschen über das Objekt-UI-Menü."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "AnimalsUpLeftTxt01";				String _text = "Aufwertungsoption"; }
+		{ String _name = "AnimalsUpLeftTxt02";				String _text = "Aufwertung zu einem Lagerplatz."; }
+		{ String _name = "AnimalsUpLeftTxt03";				String _text = "alle Nahrungsmittel und Essbares,"; }
+		{ String _name = "AnimalsUpLeftTxt04";				String _text = "(Obst, Gemüse, Getreide, Protein),"; }
+		{ String _name = "AnimalsUpLeftTxt05";				String _text = "Werkzeuge & Kleidung, Glas,"; }
+		{ String _name = "AnimalsUpLeftTxt06";				String _text = "handgefertigte Waren & Utensilien,"; }
+		{ String _name = "AnimalsUpLeftTxt07";				String _text = "Kräuter & Medizin, Textilien &"; }
+		{ String _name = "AnimalsUpLeftTxt08";				String _text = "Stoffe und verpackte Waren."; }
+		{ String _name = "DSThompsonTradeDeco01Fish";				String _text = "angelsteg"; }
+		{ String _name = "DSThompsonTradeDeco01FishLwr";				String _text = "thompson-handelssteg"; }
+		{ String _name = "DSThompsonTradeDeco01FishTip";				String _text = "An diesem Ort ist das Angeln erlaubt. Aufwertung erlaubt 1-2 Fischern, vom Steg aus zu arbeiten. Erfordert 34 Arbeit zum Bau."; }
+		{ String _name = "DSThompsonTradeDecoGhost";				String _text = "geistersteg 1x1"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnr";				String _text = "geistersteg ecke"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnrLwr";				String _text = "thompson-handelssteg"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnrTip";				String _text = "ein geisterhaftes dekoratives Thompson-Handelssteg-Eckdreieck. 1x1, F-Tasten-Varianten. Kostenlos zu bauen. Löschen über das Objekt-UI-Menü."; }
+		{ String _name = "DSThompsonTradeDecoGhostLow";				String _text = "geistersteg 1x1 niedrig"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnr";				String _text = "geistersteg niedrig ecke"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnrLwr";				String _text = "thompson-handelssteg"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnrTip";				String _text = "ein geisterhaftes dekoratives Thompson-Handelssteg-Eckdreieck auf niedrigerer Ebene. 1x1, F-Tasten-Varianten. Kostenlos zu bauen. Löschen über das Objekt-UI-Menü."; }
+		{ String _name = "DSThompsonTradeDecoGhostLowLwr";				String _text = "thompson-handelssteg"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowTip";				String _text = "ein geisterhaftes dekoratives Thompson-Handelssteg-Teil auf niedrigerer Ebene. 1x1. Kostenlos zu bauen. Löschen über das Objekt-UI-Menü."; }
+		{ String _name = "DSThompsonTradeDecoGhostLwr";				String _text = "thompson-handelssteg"; }
+		{ String _name = "DSThompsonTradeDecoGhostMenu";				String _text = "Geisterhafte dekorative Stegteile"; }
+		{ String _name = "DSThompsonTradeDecoGhostTip";				String _text = "ein geisterhaftes dekoratives Thompson-Handelssteg-Teil. 1x1. Kostenlos zu bauen. Löschen über das Objekt-UI-Menü."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorage";				String _text = "Lager: Nahrung & Waren"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorageLwr";				String _text = "thompson-handelslager"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorageTip";				String _text = "Thompson-Handelslager. Lagert alle Nahrungsmittel und Essbares, Werkzeuge, Kleidung, handgefertigte Waren & Utensilien, Glas, Textilien & Stoffe, Kräuter & Medizin und verpackte Waren. Das Gebäude hat eine Kapazität von 30.000 Gewicht. Grundfläche 10x8. Erfordert 144 Arbeit zum Bau."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxt1";				String _text = "domestiziertes, handaufgezogenes Vieh,"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxt2";				String _text = "für die gesündesten, produktivsten Tiere."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxtName";				String _text = "Viehsteg"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUp";				String _text = "Lager: Nahrung & Waren"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUpLwr";				String _text = "thompson-handelslager"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUpTip";				String _text = "wertet den Händler zu einem Lagerplatz auf. Lagert alle Nahrungsmittel und Essbares, Werkzeuge, Kleidung, handgefertigte Waren & Utensilien, Glas, Textilien & Stoffe, Kräuter & Medizin und verpackte Waren. Das Gebäude hat eine Kapazität von 30.000 Gewicht. Grundfläche 10x8. Erfordert 89 Arbeit zum Bau."; }
+		{ String _name = "DSThompsonTradeMerchantBSTxt1";				String _text = "Stämme & Bauholz, Stein, Eisen & Metalle,"; }
+		{ String _name = "DSThompsonTradeMerchantBSTxt2";				String _text = "Baumaterialien & geschmiedete Waren."; }
+		{ String _name = "DSThompsonTradeMerchantBSTxtName";				String _text = "Baustoffsteg"; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxt1";				String _text = "Obst, Gemüse und Getreide."; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxt2";				String _text = "immer frisch & pünktliche Lieferungen."; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxtName";				String _text = "Obst-, Gemüse- & Getreidesteg"; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxt1";				String _text = "Haushalts- & Hüttenbrennstoffe."; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxt2";				String _text = "regelmäßige Lieferungen, immer pünktlich."; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxtName";				String _text = "Brennstoffsteg"; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxt1";				String _text = "Werkzeuge, Kleidung, Textilien & Stoffe,"; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxt2";				String _text = "Gesundheit, handgefertigte & geschmiedete Waren."; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxtName";				String _text = "Waren- & Handwerkssteg"; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxt1";				String _text = "alle Mineralien: Erze & Materialien,"; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxt2";				String _text = "Eisenerz, Kalk, Sand & Ton."; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxtName";				String _text = "Erz- & Materialsteg"; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxt1";				String _text = "die frischesten Fleischstücke, Geflügel,"; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxt2";				String _text = "Baumnüsse und andere Proteine."; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxtName";				String _text = "Fleisch- & Nusssteg"; }
+		{ String _name = "DSThompsonTradeMerchantRoad";				String _text = "Thompson-Handelssteinstraße"; }
+		{ String _name = "DSThompsonTradeMerchantRoad01";				String _text = "TTM Steinstraße NS"; }
+		{ String _name = "DSThompsonTradeMerchantRoad01Tip";				String _text = "eine ideale Nord-Süd-Straßentextur, 1 Stein + 2 Arbeit pro Feld zum Bau. Schnelleres Reisen für Bürger."; }
+		{ String _name = "DSThompsonTradeMerchantRoad02";				String _text = "TTM Steinstraße NOSW"; }
+		{ String _name = "DSThompsonTradeMerchantRoad02Tip";				String _text = "eine ideale Nordost-Südwest-Straßentextur, 1 Stein + 2 Arbeit pro Feld zum Bau. Schnelleres Reisen für Bürger."; }
+		{ String _name = "DSThompsonTradeMerchantRoad03";				String _text = "TTM Steinstraße OW"; }
+		{ String _name = "DSThompsonTradeMerchantRoad03Tip";				String _text = "eine ideale Ost-West-Straßentextur, 1 Stein + 2 Arbeit pro Feld zum Bau. Schnelleres Reisen für Bürger."; }
+		{ String _name = "DSThompsonTradeMerchantRoad04";				String _text = "TTM Steinstraße NWSO"; }
+		{ String _name = "DSThompsonTradeMerchantRoad04Tip";				String _text = "Eine ideale Nordwest-Südost-Straßentextur, 1 Stein + 2 Arbeit zum Bauen pro Feld. Schnelleres Fortbewegen der Bürger."; }
+		{ String _name = "DSThompsonTradeMerchantRoadLwr";				String _text = "thompson handelskaufmann steinstraße"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxt1";				String _text = "die feinsten Feldfrucht- und Obstbaumsamen,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxt2";				String _text = "Reinheit und Keimfähigkeit garantiert."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxtName";				String _text = "Saatgut-Anlegestelle"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1";				String _text = "Kleinhändler"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Tip";				String _text = "Erweiterung zum Thompson Kleinhandelskaufmann, zum Import aller Lebensmittel, Haushaltsbrennstoffe, Werkzeuge, Kräuter und Gesundheitsartikel. Händler akzeptieren die meisten Waren als Bezahlung. Das Gebäude hat eine Kapazität von 12.000 Gewicht. 3x8 Grundfläche. Beschäftigt 1-5 Händler. Erfordert 34 Arbeit zum Bauen."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Txt1";				String _text = "Obst, Gemüse, Getreide, Fleisch & Nüsse,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Txt2";				String _text = "Brennstoff, Werkzeuge, Kräuter und Gesundheitsartikel."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1TxtName";				String _text = "Kleinhandels-Anlegestelle"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2";				String _text = "Kleinhändler"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Tip";				String _text = "Erweiterung zum Thompson Kleinhandelskaufmann, zum Import aller Lebensmittel, Haushaltsbrennstoffe, Kleidung, Kräuter und Gesundheitsartikel. Händler akzeptieren die meisten Waren als Bezahlung. Das Gebäude hat eine Kapazität von 12.000 Gewicht. 3x8 Grundfläche. Beschäftigt 1-5 Händler. Erfordert 34 Arbeit zum Bauen."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Txt1";				String _text = "Obst, Gemüse, Getreide, Fleisch & Nüsse,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Txt2";				String _text = "Brennstoff, Kleidung, Kräuter und Gesundheitsartikel."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2TxtName";				String _text = "Kleinhandels-Anlegestelle"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt0";				String _text = "Stadthandelskaufmann, Importeure"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt1";				String _text = "aller Bedürfnisse der Stadt: Lebensmittel, Werkzeuge,"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt2";				String _text = " Kleidung, Brennstoff, Medizin & mehr."; }
+		{ String _name = "DSThompsonTradeMerchantTownTxtName";				String _text = "Lebensmittel- & Waren-Anlegestelle"; }
+		{ String _name = "DeleteButtonTip";				String _text = "Dieses Anlegestellenteil entfernen"; }
+		{ String _name = "DisableFishWork";				String _text = "fischt nicht"; }
+		{ String _name = "EnableFishWork";				String _text = "fischt jetzt"; }
+		{ String _name = "FishingGear";				String _text = "Angelausrüstung"; }
+		{ String _name = "SeedUpLeftTxt01";				String _text = "Erweiterungsoption Nr. 1"; }
+		{ String _name = "SeedUpLeftTxt03";				String _text = "alle Lebensmittel und Esswaren"; }
+		{ String _name = "SeedUpLeftTxt04";				String _text = "(Obst, Gemüse, Getreide, Eiweiß),"; }
+		{ String _name = "SeedUpLeftTxt05";				String _text = "Haushaltsbrennstoffe, Werkzeuge &"; }
+		{ String _name = "SeedUpLeftTxt06";				String _text = "Kräuter und Gesundheitsartikel. "; }
+		{ String _name = "SeedUpRightTxt01";				String _text = "Erweiterungsoption Nr. 2"; }
+		{ String _name = "SeedUpRightTxt03";				String _text = "alle Lebensmittel und Esswaren"; }
+		{ String _name = "SeedUpRightTxt04";				String _text = "(Obst, Gemüse, Getreide, Eiweiß),"; }
+		{ String _name = "SeedUpRightTxt05";				String _text = "Haushaltsbrennstoffe, Kleidung &"; }
+		{ String _name = "SeedUpRightTxt06";				String _text = "Kräuter und Gesundheitsartikel. "; }
+		{ String _name = "SeedUpTxt02";				String _text = "der Händler wird importieren:"; }
+		{ String _name = "TotalAnimalBuy";				String _text = "Vieh vom Händler kaufen -- Gesamtkosten:"; }
+		{ String _name = "TotalSeedBuy";				String _text = "Saatgut vom Händler kaufen -- Gesamtkosten:"; }
+		{ String _name = "Upgrade";				String _text = "Erweiterung"; }
+
 	]
 }

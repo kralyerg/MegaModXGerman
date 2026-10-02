@@ -37,5 +37,11 @@ StringTable resource
 		{ String _name = "EBFarmStand";						String _text = "Hofladen"; }
 		{ String _name = "EBFarmStandLwr";					String _text = "hofladen"; }
 		{ String _name = "EBFarmStandTip";					String _text = "Der Hofladen bietet den Bürgern einen zentralen Ort, um Nahrung, Brennstoff, Werkzeuge, Textilien, Stoffe und Kleidung abzuholen. Bis zu 2 Verkäufer können beschäftigt werden. Bauzyklus: 32."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ToolbarMarkets";				String _text = "Markt-Werkzeugleiste"; }
+		{ String _name = "ToolbarMarketsLwr";				String _text = "markt-werkzeugleiste"; }
+		{ String _name = "ToolbarMarketsTip";				String _text = "Markt-Werkzeugleiste."; }
+
 	]
 }

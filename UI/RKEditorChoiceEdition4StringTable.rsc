@@ -403,6 +403,14 @@ StringTable resource
 
 // -------------------------------------------------------------------------------------------------------------
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "NMTReedsFarm";				String _text = "Schilffarm"; }
+		{ String _name = "NMTReedsFarmLwr";				String _text = "schilffarm"; }
+		{ String _name = "NMTReedsFarmRequire";				String _text = "Schilf"; }
+		{ String _name = "NMTReedsFarmTip";				String _text = "NMT-Docks-Schilffarm: ein Arbeitsplatz, an dem Schilf in deiner Docks-Zone angebaut werden kann. Größe: 6x7. Kosten: 36 Holz. Beschäftigt 1-3 Bauern. Tipps: Benötigt kein Saatgut. Bitte halte die Vorderseite dieses Gebäudes für seine Lebensmittelsäcke frei und benutze sie nicht als Gehweg am Dock."; }
+		{ String _name = "Rice";				String _text = "Reis"; }
+
 	]
 }
 

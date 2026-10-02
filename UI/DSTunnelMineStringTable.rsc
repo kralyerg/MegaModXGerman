@@ -34,5 +34,14 @@ StringTable resource
 		{	String _name = "IronOre";		String _text = "Eisenerz"; }
 		{	String _name = "Candles";		String _text = "Kerzen"; }
 		{	String _name = "Lumber";		String _text = "Schnittholz"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "CoalLimit";				String _text = "Kohle (Materialien)"; }
+		{ String _name = "CoalLimitShort";				String _text = "Kohle"; }
+		{ String _name = "CoalLimitTip";				String _text = "Steuert die Menge der gelagerten Kohle (Materialien). Sobald dieser Grenzwert erreicht ist, stoppt die Produktion aller Materialien."; }
+		{ String _name = "IronOreLimit";				String _text = "Eisenerz (Materialien)"; }
+		{ String _name = "IronOreLimitShort";				String _text = "Eisenerz"; }
+		{ String _name = "IronOreLimitTip";				String _text = "Steuert die Menge des gelagerten Eisenerzes (Materialien). Sobald dieser Grenzwert erreicht ist, stoppt die Produktion aller Materialien."; }
+
 	]
 }

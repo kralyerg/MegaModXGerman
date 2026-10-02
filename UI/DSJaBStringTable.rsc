@@ -502,10 +502,10 @@ StringTable resource
 		{ String _name = "NMStockfish";					String _text = "Getrockneter Fisch"; }
 		{ String _name = "DriedFishRequire";				String _text = "18-24 Getrockneter Fisch (12 Fisch)"; }
 				
-		{ String _name = "Mollusc";						String _text = "Molluske"; }
-		
-		{ String _name = "DriedMollusc";				String _text = "Getrocknete Molluske"; }
-		{ String _name = "DriedMolluscRequire";				String _text = "18-24 Getrocknete Molluske (14 Molluske)"; }
+		{ String _name = "Mollusc";						String _text = "Muschel"; }
+
+		{ String _name = "DriedMollusc";				String _text = "Getrocknete Muschel"; }
+		{ String _name = "DriedMolluscRequire";				String _text = "18-24 Getrocknete Muschel (14 Muscheln)"; }
 		
 		
 		{ String _name = "Fertilizer";					String _text = "Dünger"; }
@@ -513,8 +513,8 @@ StringTable resource
 		{ String _name = "Water";						String _text = "Wasser"; }
 		
 		{ String _name = "FishermansCatch";				String _text = "Fang des Fischers"; }
-		{ String _name = "FishermansCatchRequire1";			String _text = "13-17 Fang des Fischers (8 Fisch + 3 Molluske + 1 Brennholz)"; }
-		{ String _name = "FishermansCatchRequire2";			String _text = "13-17 Fang des Fischers (3 Fisch + 8 Molluske + 1 Brennholz)"; }
+		{ String _name = "FishermansCatchRequire1";			String _text = "13-17 Fang des Fischers (8 Fisch + 3 Muscheln + 1 Brennholz)"; }
+		{ String _name = "FishermansCatchRequire2";			String _text = "13-17 Fang des Fischers (3 Fisch + 8 Muscheln + 1 Brennholz)"; }
 		
 		{ String _name = "MushroomRequire";				String _text = "16-22 Pilz (2 Pilz + 1 Dünger)"; }
 		
@@ -542,7 +542,7 @@ StringTable resource
 		
 		{ String _name = "Omelette";					String _text = "Omelett"; }
 		{ String _name = "Omelette1Require";				String _text = "16-20 Omelett (8 Eier + 1 Zwiebel + 6 Pilze + 1 Brennholz)"; }
-		{ String _name = "Omelette2Require";				String _text = "16-20 Omelett (8 Eier + 4 Pilze + 3 Molluske + 1 Brennholz)"; }
+		{ String _name = "Omelette2Require";				String _text = "16-20 Omelett (8 Eier + 4 Pilze + 3 Muscheln + 1 Brennholz)"; }
 		
 		{ String _name = "RoastChicken";				String _text = "Gebratenes Hähnchen"; }
 		{ String _name = "RoastChickenRequire";				String _text = "18-24 Gebratenes Hähnchen (12 Huhn + 2 Brennholz)"; }
