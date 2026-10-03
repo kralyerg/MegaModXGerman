@@ -4,11 +4,11 @@ StringTable objects
 	[
 		{
 			String _name = "Flatten";
-			String _text = "[Fn]Berge versetzen, Meere auffüllen";
+			String _text = "Gelände einebnen";
 		}
 		{
 			String _name = "FlattenTip";
-			String _text = "Kann hügelige Berge einebnen und auch Flüsse, Bäche und Seen auffüllen. Anwendung: Wähle das Gebiet aus, in dem Berge versetzt oder aufgefüllt werden sollen, und hebe es dann mit dem Abriss-Werkzeug wieder auf. Da das Versetzen von Bergen und Auffüllen von Gewässern nicht rückgängig gemacht werden kann, wird empfohlen, vor der Nutzung manuell zu speichern. Deine Daten sind unbezahlbar!";
+			String _text = "Ebnet Hügel und Gewässer ein und schafft so gültiges Baugelände. Mit 'Gebäude entfernen' lässt sich der Fußabdruck wieder löschen.";
 		}
 	]
 
