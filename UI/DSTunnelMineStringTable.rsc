@@ -43,5 +43,10 @@ StringTable resource
 		{ String _name = "IronOreLimitShort";				String _text = "Eisenerz"; }
 		{ String _name = "IronOreLimitTip";				String _text = "Steuert die Menge des gelagerten Eisenerzes (Materialien). Sobald dieser Grenzwert erreicht ist, stoppt die Produktion aller Materialien."; }
 
+	
+		{ String _name = "DSTunnelMine";	String _text = "Tunnelmine"; }
+		{ String _name = "DSTunnelMineLwr";	String _text = "tunnelmine"; }
+		{ String _name = "DSTunnelMineTip";	String _text = "Eine Tunnelmine im Berg, bis zu 8 Bergleute fördern Stein, Kohle und Eisen."; }
+		{ String _name = "DSIronRequire";	String _text = "Eisen"; }
 	]
 }

@@ -395,5 +395,14 @@ StringTable resource
 		{ String _name = "DSCornerStorageUpgradeTip";		String _text = "Wertet dies auf eine Lagerkapazität von 500 auf, lagert Gemüse, Obst und Getreide."; }
 		
 
+	
+		{ String _name = "ToolbarDSFencesTip";	String _text = "DS Zäune. Eine Sammlung modularer Zaunelemente."; }
+		{ String _name = "DSCountryStoneWall5wideLwr";	String _text = "Landhaus-Steinmauer"; }
+		{ String _name = "MenuDSModularFencesTip";	String _text = "Modulare Zaunkomponenten - straßengebunden und dekorativ, F-Taste für Varianten."; }
+		{ String _name = "MenuDSStoneWallsTip";	String _text = "Stadt-Steinmauer - 2 Farbstile, F-Taste für Varianten."; }
+		{ String _name = "MenuDSFencesDecoTip";	String _text = "Dekorationen - F-Taste für Varianten."; }
+		{ String _name = "MenuDSFencesDecoLanternsTip";	String _text = "Laternen"; }
+		{ String _name = "DSFenceClearBuildings";	String _text = "Gebäude entfernen"; }
+		{ String _name = "DSFenceClearBuildingsTip";	String _text = "Entfernt Gebäude im ausgewählten Bereich. HINWEIS: Manche Zäune/Tore müssen eventuell durch Hochstufen oder über die Löschen-Schaltfläche in der UI-Box entfernt werden."; }
 	]
 }

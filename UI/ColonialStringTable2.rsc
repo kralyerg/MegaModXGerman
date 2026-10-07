@@ -166,6 +166,7 @@ StringTable resource
 		{ String _name = "TinyshackTip";					String _text = "Eine kleine, einfache Behausung, in der neue Familien auf bis zu 3 Personen anwachsen können. Eine bestehende Familie beliebiger Größe kann jedoch einziehen, wenn sie umgesiedelt wird."; }
 		
 		{ String _name = "Tinyhouse";						String _text = "Kleines Haus"; }
+		{ String _name = "TinyhouseLwr";						String _text = "kleines Haus"; }
 		{ String _name = "TinyshackLwr";					String _text = "Kleines Haus"; }
 		{ String _name = "TinyhouseTip";					String _text = "Eine kleine, einfache Behausung, in der neue Familien auf bis zu 4 Personen anwachsen können. Eine bestehende Familie beliebiger Größe kann jedoch einziehen, wenn sie umgesiedelt wird. Wärmer und komfortabler als eine kleine Hütte."; }
 		
@@ -363,6 +364,7 @@ StringTable resource
 		{ String _name = "IronMineDeepTip";					String _text = "Eine tiefe Mine zur Fortsetzung der Rohstoffgewinnung. Nützlich zum Ausbau, wenn deine aktuelle Mine fast erschöpft ist."; }
 
 		{ String _name = "IronMineDeeper";					String _text = "Tiefe Mine"; }
+		{ String _name = "IronMineDeeperTip";					String _text = "Eine noch tiefere Mine, um die Rohstoffgewinnung fortzusetzen. Nützlich als Upgrade, wenn Ihre aktuelle Mine fast leer ist."; }
 		{ String _name = "IronMineDeeperLwr";					String _text = "Tiefe Mine"; }
 		{ String _name = "IronMineDeepTip";					String _text = "Eine noch tiefere Mine zur Fortsetzung der Rohstoffgewinnung. Nützlich zum Ausbau, wenn deine aktuelle Mine fast erschöpft ist."; }
 
@@ -371,6 +373,7 @@ StringTable resource
 		{ String _name = "QuarryDeepTip";					String _text = "Ein tiefer Steinbruch zur Fortsetzung der Rohstoffgewinnung. Nützlich zum Ausbau, wenn dein aktueller Steinbruch fast erschöpft ist."; }
 
 		{ String _name = "QuarryDeeper";					String _text = "Tieferer Steinbruch"; }
+		{ String _name = "QuarryDeeperTip";					String _text = "Ein noch tieferer Steinbruch, um die Rohstoffgewinnung fortzusetzen. Nützlich als Upgrade, wenn Ihr aktueller Steinbruch fast leer ist."; }
 		{ String _name = "QuarryDeeperLwr";					String _text = "Tieferer Steinbruch"; }
 		{ String _name = "QuarryDeepTip";					String _text = "Ein noch tieferer Steinbruch zur Fortsetzung der Rohstoffgewinnung. Nützlich zum Ausbau, wenn dein aktueller Steinbruch fast erschöpft ist."; }
 

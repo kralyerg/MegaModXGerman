@@ -409,6 +409,13 @@ StringTable resource
 		{ String _name = "CityRoads3T5x5Sidewalk";			String _text = "Stadtstraße 5x5 Gehweg"; }
 		{ String _name = "CityRoads3T5x5SidewalkLwr";			String _text = "Stadtstraße 5x5 Gehweg"; }
 		{ String _name = "CityRoads3T5x5SidewalkTip";			String _text = "Stadtstraße 5x5 Gehweg. Setzt ein Gehwegstück mit 5 Breite X 5 Tiefe (unsichtbar)."; }
+	
+		{ String _name = "CityRoadsToolbar1X";	String _text = "Stadtstraßen-Werkzeugleiste 1X"; }
+		{ String _name = "CityRoadsToolbar1XLwr";	String _text = "stadtstraßen-werkzeugleiste 1X"; }
+		{ String _name = "CityRoadsToolbar1XTip";	String _text = "Stadtstraßen-Werkzeugleiste 1X. Öffnen Sie diese Werkzeugleiste, um die Optionen für 1 Feld Breite zu erhalten."; }
+		{ String _name = "CityRoadsToolbar2T1X";	String _text = "Stadtstraßen-Werkzeugleiste 1X"; }
+		{ String _name = "CityRoadsToolbar2T1XLwr";	String _text = "stadtstraßen-werkzeugleiste 1X"; }
+		{ String _name = "CityRoadsToolbar2T1XTip";	String _text = "Stadtstraßen-Werkzeugleiste 1X. Öffnen Sie diese Werkzeugleiste, um die Optionen für 1 Feld Breite zu erhalten."; }
 	]
 }
 

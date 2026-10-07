@@ -941,6 +941,7 @@ StringTable resource
 		{ String _name = "NMT3F2C1T2Tip";		String _text = "A NMT MultiStory house 2nd floor dient der Unterbringung eurer Bürger. Grösse: 1x5 Feldern. Kosten: 16 Bauholz, 28 Stein, 4 Eisen, 10 Glas, 18 Baumstämme. Wohnraum: 5 Bürger. Wärmeeffizienz %: 96. Modelle: 1. Farbe: 1. Tipps: Sie sind dazu gedacht, direkt rechts vom Eckhaus-Erdgeschoss platziert zu werden."; }
 
 		{ String _name = "NMT3F2C1T3";			String _text = "Mehrstöckighaus 2. Stock"; }
+		{ String _name = "NMT3F2C1T3Lwr";			String _text = "mehrstöckighaus 2. Stock"; }
 		{ String _name = "NMT3F2vT3Lwr";		String _text = "mehrstöckighaus 2. Stock"; }
 		{ String _name = "NMT3F2C1T3Tip";		String _text = "A NMT MultiStory house 2nd floor dient der Unterbringung eurer Bürger. Grösse: 1x5 Feldern. Kosten: 16 Bauholz, 28 brick, 4 Stein, 10 Glas, 18 Dachziegel. Wohnraum: 5 Bürger. Wärmeeffizienz %: 110. Modelle: 1. Farbe: 1. Tipps: Sie sind dazu gedacht, direkt rechts vom Eckhaus-Erdgeschoss platziert zu werden."; }
 
@@ -1044,6 +1045,7 @@ StringTable resource
 		{ String _name = "HostelF2C1T2Tip";			String _text = "An Hostel 2nd floor dient der Unterbringung eurer Bürger, wenn sie kein eigenes Zuhause haben. Grösse: 1x5 Feldern. Kosten: 16 Bauholz, 28 Stein, 4 Eisen, 10 Glas, 18 Baumstämme. Wohnraum: 3X Familien of 5 Bürger. Wärmeeffizienz %: 96. Modelle: 1. Farbe: 1. Tipps: Sie sind dazu gedacht, direkt rechts vom Herbergen-Eckhaus-Erdgeschoss platziert zu werden."; }
 
 		{ String _name = "HostelF2C1T3";			String _text = "Herberge 2. Stock"; }
+		{ String _name = "HostelF2C1T3Lwr";			String _text = "herberge 2. Stock"; }
 		{ String _name = "HostelF2vT3Lwr";			String _text = "herberge 2. Stock"; }
 		{ String _name = "HostelF2C1T3Tip";			String _text = "An Hostel 2nd floor dient der Unterbringung eurer Bürger, wenn sie kein eigenes Zuhause haben. Grösse: 1x5 Feldern. Kosten: 16 Bauholz, 28 brick, 4 Stein, 10 Glas, 18 Dachziegel. Wohnraum: 3X Familien of 5 Bürger. Wärmeeffizienz %: 110. Modelle: 1. Farbe: 1. Tipps: Sie sind dazu gedacht, direkt rechts vom Herbergen-Eckhaus-Erdgeschoss platziert zu werden."; }
 
